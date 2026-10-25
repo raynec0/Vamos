@@ -1,0 +1,2219 @@
+{
+ "levels": [
+  {
+   "id": "A1",
+   "title": "入门",
+   "subtitle": "Acceso",
+   "summary": "能用最基本的词句介绍自己、问候、点餐、问路，处理最简单的日常场景。",
+   "color": "rojo",
+   "units": []
+  },
+  {
+   "id": "A2",
+   "title": "初级",
+   "subtitle": "Plataforma",
+   "summary": "能讲述过去的经历、描述人和地方、谈论健康和住房、表达计划，应付大部分日常生活。",
+   "color": "oro",
+   "units": [
+    {
+     "id": "a2u1",
+     "title": "我的经历",
+     "subtitle": "Experiencias",
+     "lessons": [
+      {
+       "id": "a2u1l1",
+       "title": "现在完成时",
+       "subtitle": "¿Has estado en…?",
+       "icon": "airplane",
+       "grammar": [
+        "pretérito perfecto: haber + participio",
+        "participios irregulares: hecho, visto, dicho, escrito, vuelto, puesto, abierto, roto",
+        "ya / todavía no / alguna vez / nunca"
+       ],
+       "vocab": "经历、旅行、尝试过的事物",
+       "functions": [
+        "询问和讲述人生经历"
+       ],
+       "culture": "西班牙本土用现在完成时谈论今天、这周、今年发生的事，拉美多用简单过去时"
+      },
+      {
+       "id": "a2u1l2",
+       "title": "今天做了什么",
+       "subtitle": "¿Qué has hecho hoy?",
+       "icon": "clock.arrow.circlepath",
+       "grammar": [
+        "pretérito perfecto con marcadores: hoy, esta mañana, esta semana, este año",
+        "verbos reflexivos en perfecto: me he levantado"
+       ],
+       "vocab": "一天中的日常活动",
+       "functions": [
+        "讲述今天发生的事"
+       ]
+      },
+      {
+       "id": "a2u1l3",
+       "title": "简单过去时（规则）",
+       "subtitle": "Ayer trabajé mucho",
+       "icon": "calendar",
+       "grammar": [
+        "pretérito indefinido regular -ar / -er / -ir",
+        "marcadores: ayer, anoche, el año pasado, hace dos días, en 2015",
+        "cambios ortográficos: busqué, llegué, empecé"
+       ],
+       "vocab": "周末和假期活动",
+       "functions": [
+        "讲述过去某个时间点做的事"
+       ]
+      },
+      {
+       "id": "a2u1l4",
+       "title": "简单过去时（不规则）",
+       "subtitle": "Fui, estuve, hice",
+       "icon": "airplane.departure",
+       "grammar": [
+        "indefinido irregular: ser/ir (fui), estar (estuve), tener (tuve), hacer (hice), poder, poner, venir, decir, dar, ver",
+        "leer → leyó, dormir → durmió, pedir → pidió"
+       ],
+       "vocab": "旅行、假期",
+       "functions": [
+        "讲述一次旅行"
+       ]
+      },
+      {
+       "id": "a2u1l5",
+       "title": "完成时还是过去时",
+       "subtitle": "Perfecto o indefinido",
+       "icon": "person.text.rectangle",
+       "grammar": [
+        "contraste pretérito perfecto / indefinido según los marcadores temporales",
+        "biografías: nacer, mudarse, casarse, graduarse, empezar a trabajar"
+       ],
+       "vocab": "人生大事与生平",
+       "functions": [
+        "讲述自己或名人的生平"
+       ],
+       "culture": "简述一位西班牙名人（如毕加索、塞万提斯）的生平"
+      }
+     ]
+    },
+    {
+     "id": "a2u2",
+     "title": "过去的样子",
+     "subtitle": "Antes y ahora",
+     "lessons": [
+      {
+       "id": "a2u2l1",
+       "title": "过去未完成时",
+       "subtitle": "Cuando era pequeño",
+       "icon": "photo",
+       "grammar": [
+        "pretérito imperfecto regular",
+        "irregulares: ser (era), ir (iba), ver (veía)",
+        "soler + infinitivo en imperfecto"
+       ],
+       "vocab": "童年、学校、家庭习惯",
+       "functions": [
+        "描述过去的习惯"
+       ]
+      },
+      {
+       "id": "a2u2l2",
+       "title": "过去和现在",
+       "subtitle": "Antes y ahora",
+       "icon": "clock",
+       "grammar": [
+        "contraste imperfecto / presente",
+        "ya no / todavía / seguir + gerundio"
+       ],
+       "vocab": "城市和科技的变化",
+       "functions": [
+        "对比过去和现在"
+       ],
+       "culture": "西班牙几十年来的社会变化"
+      },
+      {
+       "id": "a2u2l3",
+       "title": "描写过去的人和地方",
+       "subtitle": "Así era",
+       "icon": "person.crop.square",
+       "grammar": [
+        "imperfecto descriptivo: había, era, tenía, estaba",
+        "adjetivos de carácter y aspecto físico"
+       ],
+       "vocab": "外貌、性格、地方",
+       "functions": [
+        "描述过去的人、地方和情况"
+       ]
+      },
+      {
+       "id": "a2u2l4",
+       "title": "讲故事",
+       "subtitle": "Contar una anécdota",
+       "icon": "text.bubble",
+       "grammar": [
+        "indefinido (acciones) frente a imperfecto (circunstancias)",
+        "conectores: un día, de repente, entonces, al final"
+       ],
+       "vocab": "趣事与意外",
+       "functions": [
+        "讲述一件有趣的经历",
+        "回应别人的故事：¡No me digas! ¡Qué fuerte!"
+       ]
+      },
+      {
+       "id": "a2u2l5",
+       "title": "正在进行",
+       "subtitle": "Estar + gerundio",
+       "icon": "hourglass",
+       "grammar": [
+        "estar + gerundio en presente y en pasado (estaba haciendo)",
+        "gerundios irregulares: leyendo, durmiendo, diciendo, yendo",
+        "seguir / llevar + gerundio"
+       ],
+       "vocab": "正在进行的活动",
+       "functions": [
+        "描述正在发生和被打断的动作"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "a2u3",
+     "title": "健康与运动",
+     "subtitle": "Salud",
+     "lessons": [
+      {
+       "id": "a2u3l1",
+       "title": "身体与疼痛",
+       "subtitle": "Me duele la cabeza",
+       "icon": "cross.case",
+       "grammar": [
+        "doler (como gustar): me duele, me duelen",
+        "tener dolor de, estar + adjetivo (resfriado, mareado)"
+       ],
+       "vocab": "身体部位、常见症状",
+       "functions": [
+        "说明哪里不舒服"
+       ]
+      },
+      {
+       "id": "a2u3l2",
+       "title": "看医生",
+       "subtitle": "En el médico",
+       "icon": "stethoscope",
+       "grammar": [
+        "imperativo afirmativo regular e irregular (tú y usted): toma / tome, haz / haga",
+        "frecuencia: cada ocho horas, dos veces al día"
+       ],
+       "vocab": "症状、药物、医嘱",
+       "functions": [
+        "描述症状、理解医嘱"
+       ],
+       "culture": "西班牙公共医疗：centro de salud、médico de cabecera、tarjeta sanitaria、cita previa"
+      },
+      {
+       "id": "a2u3l3",
+       "title": "给建议",
+       "subtitle": "Deberías descansar",
+       "icon": "heart",
+       "grammar": [
+        "deber + infinitivo, tener que, hay que",
+        "deberías / podrías como fórmula de consejo"
+       ],
+       "vocab": "健康习惯、饮食",
+       "functions": [
+        "提建议和接受建议"
+       ],
+       "culture": "地中海饮食"
+      },
+      {
+       "id": "a2u3l4",
+       "title": "运动与爱好",
+       "subtitle": "Deportes y aficiones",
+       "icon": "sportscourt",
+       "grammar": [
+        "jugar a / hacer / practicar + deporte",
+        "gustar, encantar, interesar, preferir",
+        "a mí también / a mí tampoco / a mí sí / a mí no"
+       ],
+       "vocab": "运动和兴趣爱好",
+       "functions": [
+        "谈论爱好、表达喜好"
+       ],
+       "culture": "足球在西班牙（皇马与巴萨）、巴斯克回力球"
+      },
+      {
+       "id": "a2u3l5",
+       "title": "在药店",
+       "subtitle": "En la farmacia",
+       "icon": "pills",
+       "grammar": [
+        "pronombres de objeto directo: lo, la, los, las",
+        "posición con infinitivo e imperativo: tomarlo, tómalo"
+       ],
+       "vocab": "药品、药店",
+       "functions": [
+        "买药、询问用法"
+       ],
+       "culture": "西班牙药店的绿色十字标志与 farmacia de guardia"
+      }
+     ]
+    },
+    {
+     "id": "a2u4",
+     "title": "住房与城市",
+     "subtitle": "Vivienda",
+     "lessons": [
+      {
+       "id": "a2u4l1",
+       "title": "找房子",
+       "subtitle": "Busco piso",
+       "icon": "house",
+       "grammar": [
+        "comparativos: más/menos… que, tan… como, tanto como",
+        "mejor, peor, mayor, menor"
+       ],
+       "vocab": "住房：piso, alquiler, fianza, amueblado, gastos incluidos",
+       "functions": [
+        "比较房子、询问租房条件"
+       ],
+       "culture": "西班牙年轻人合租（compartir piso）与 inmobiliaria"
+      },
+      {
+       "id": "a2u4l2",
+       "title": "描述家居",
+       "subtitle": "Mi casa",
+       "icon": "bed.double",
+       "grammar": [
+        "superlativo: el más…, -ísimo",
+        "preposiciones de lugar ampliadas"
+       ],
+       "vocab": "家具和房间",
+       "functions": [
+        "描述住处"
+       ]
+      },
+      {
+       "id": "a2u4l3",
+       "title": "家务与室友",
+       "subtitle": "Las tareas de casa",
+       "icon": "sparkles",
+       "grammar": [
+        "imperativo con pronombres: hazlo, ponla, no lo hagas (introducción)",
+        "te toca + infinitivo"
+       ],
+       "vocab": "家务",
+       "functions": [
+        "分配家务、提出请求"
+       ]
+      },
+      {
+       "id": "a2u4l4",
+       "title": "我的街区",
+       "subtitle": "Mi barrio",
+       "icon": "building.2",
+       "grammar": [
+        "pronombres relativos que y donde",
+        "lo que"
+       ],
+       "vocab": "街区的设施与服务",
+       "functions": [
+        "介绍自己住的地方"
+       ],
+       "culture": "马德里和巴塞罗那有特色的街区"
+      },
+      {
+       "id": "a2u4l5",
+       "title": "问路与指路",
+       "subtitle": "¿Cómo llego a…?",
+       "icon": "map",
+       "grammar": [
+        "imperativo de usted: siga, gire, cruce, tome",
+        "ordinales: primera, segunda calle"
+       ],
+       "vocab": "城市道路与地标",
+       "functions": [
+        "问路、给出路线"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "a2u5",
+     "title": "生活与服务",
+     "subtitle": "Servicios",
+     "lessons": [
+      {
+       "id": "a2u5l1",
+       "title": "退换货",
+       "subtitle": "Quiero devolver esto",
+       "icon": "shippingbox",
+       "grammar": [
+        "pronombres de objeto indirecto: me, te, le, nos, os, les",
+        "se lo / se la (combinación de pronombres, introducción)"
+       ],
+       "vocab": "网购、退换、投诉",
+       "functions": [
+        "退货、换货、说明问题"
+       ]
+      },
+      {
+       "id": "a2u5l2",
+       "title": "打电话",
+       "subtitle": "Al teléfono",
+       "icon": "phone",
+       "grammar": [
+        "fórmulas telefónicas: ¿Diga? ¿De parte de quién? Ahora se pone",
+        "estar + gerundio para explicar"
+       ],
+       "vocab": "电话用语",
+       "functions": [
+        "打电话、留言、预约"
+       ],
+       "culture": "西班牙人接电话说 ¿Diga? 或 ¿Sí?"
+      },
+      {
+       "id": "a2u5l3",
+       "title": "办手续",
+       "subtitle": "Trámites",
+       "icon": "building.columns",
+       "grammar": [
+        "se impersonal: se necesita, se puede, se tiene que",
+        "hay que + infinitivo"
+       ],
+       "vocab": "银行、市政、预约",
+       "functions": [
+        "办理日常手续、询问要求"
+       ],
+       "culture": "西班牙办事要先约 cita previa；empadronamiento"
+      },
+      {
+       "id": "a2u5l4",
+       "title": "邀请与约会",
+       "subtitle": "¿Quedamos?",
+       "icon": "calendar",
+       "grammar": [
+        "quedar / quedar con",
+        "¿Por qué no…? ¿Te apetece…? ¿Qué tal si…?",
+        "aceptar y rechazar: me encantaría, pero…"
+       ],
+       "vocab": "约朋友、计划活动",
+       "functions": [
+        "邀请、接受、拒绝、改约"
+       ],
+       "culture": "西班牙人约会时间晚、晚饭 21–22 点"
+      },
+      {
+       "id": "a2u5l5",
+       "title": "做菜",
+       "subtitle": "Recetas",
+       "icon": "fork.knife",
+       "grammar": [
+        "se impersonal en recetas: se corta, se añade, se fríe",
+        "imperativo en recetas"
+       ],
+       "vocab": "厨房动作和食材",
+       "functions": [
+        "看懂和讲解菜谱"
+       ],
+       "culture": "tortilla de patatas、gazpacho、paella 的正宗做法之争"
+      }
+     ]
+    },
+    {
+     "id": "a2u6",
+     "title": "计划与未来",
+     "subtitle": "Futuro",
+     "lessons": [
+      {
+       "id": "a2u6l1",
+       "title": "简单将来时",
+       "subtitle": "El año que viene",
+       "icon": "airplane",
+       "grammar": [
+        "futuro simple regular",
+        "irregulares: tendré, haré, podré, saldré, diré, vendré, querré, sabré"
+       ],
+       "vocab": "计划与愿望",
+       "functions": [
+        "谈论将来的计划"
+       ]
+      },
+      {
+       "id": "a2u6l2",
+       "title": "预测",
+       "subtitle": "Seguramente…",
+       "icon": "lightbulb",
+       "grammar": [
+        "futuro para predicciones",
+        "quizás, a lo mejor, seguramente + indicativo"
+       ],
+       "vocab": "科技、天气、生活预测",
+       "functions": [
+        "预测、表达可能性"
+       ]
+      },
+      {
+       "id": "a2u6l3",
+       "title": "节日与传统",
+       "subtitle": "Fiestas",
+       "icon": "sparkles",
+       "grammar": [
+        "se celebra, se come, es típico + infinitivo",
+        "fechas: el 6 de enero"
+       ],
+       "vocab": "节日",
+       "functions": [
+        "介绍节日和习俗"
+       ],
+       "culture": "Reyes Magos、Semana Santa、San Fermín、Las Fallas、La Tomatina、Nochevieja 吃 12 颗葡萄"
+      },
+      {
+       "id": "a2u6l4",
+       "title": "学业与工作",
+       "subtitle": "Estudios y trabajo",
+       "icon": "briefcase",
+       "grammar": [
+        "llevar + tiempo + gerundio",
+        "desde, desde hace, hace… que"
+       ],
+       "vocab": "学历、职业经历、简历",
+       "functions": [
+        "介绍学习和工作经历"
+       ]
+      },
+      {
+       "id": "a2u6l5",
+       "title": "A2 综合复习",
+       "subtitle": "Repaso A2",
+       "icon": "checkmark.seal",
+       "grammar": [
+        "repaso: perfecto, indefinido, imperfecto, futuro, imperativo, pronombres de objeto"
+       ],
+       "vocab": "综合",
+       "functions": [
+        "完整地讲一段经历并谈论计划"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "B1",
+   "title": "中级",
+   "subtitle": "Umbral",
+   "summary": "能在西班牙独立生活和工作：表达观点和感受、讲述复杂的经历、看懂大部分日常文本，开始掌握虚拟式。",
+   "color": "verde",
+   "units": [
+    {
+     "id": "b1u1",
+     "title": "情感与关系",
+     "subtitle": "Relaciones",
+     "lessons": [
+      {
+       "id": "b1u1l1",
+       "title": "性格与状态",
+       "subtitle": "Ser o estar",
+       "icon": "heart",
+       "grammar": [
+        "ser / estar con adjetivos que cambian de significado: listo, aburrido, malo, rico, abierto",
+        "estar + participio"
+       ],
+       "vocab": "性格、情绪",
+       "functions": [
+        "描述人的性格和状态"
+       ]
+      },
+      {
+       "id": "b1u1l2",
+       "title": "虚拟式现在时",
+       "subtitle": "Ojalá",
+       "icon": "star",
+       "grammar": [
+        "presente de subjuntivo: formación regular",
+        "irregulares: sea, vaya, haya, sepa, esté, dé, tenga, haga",
+        "ojalá, espero que, que + subjuntivo (¡Que te mejores!)"
+       ],
+       "vocab": "愿望与祝福",
+       "functions": [
+        "表达愿望、祝福别人"
+       ],
+       "culture": "西班牙人常用的祝福：¡Que aproveche! ¡Que tengas buen día!"
+      },
+      {
+       "id": "b1u1l3",
+       "title": "请求与希望",
+       "subtitle": "Quiero que vengas",
+       "icon": "hand.raised",
+       "grammar": [
+        "querer / pedir / necesitar / preferir que + subjuntivo",
+        "infinitivo cuando el sujeto es el mismo"
+       ],
+       "vocab": "家庭和朋友关系",
+       "functions": [
+        "提出请求、表达期望"
+       ]
+      },
+      {
+       "id": "b1u1l4",
+       "title": "情感反应",
+       "subtitle": "Me alegra que…",
+       "icon": "face.smiling",
+       "grammar": [
+        "verbos de sentimiento + que + subjuntivo: me alegra, me molesta, me da pena, me preocupa",
+        "es una pena / qué bien que"
+       ],
+       "vocab": "情绪词汇",
+       "functions": [
+        "表达对事情的感受"
+       ]
+      },
+      {
+       "id": "b1u1l5",
+       "title": "给建议",
+       "subtitle": "Te aconsejo que…",
+       "icon": "bubble.left.and.bubble.right",
+       "grammar": [
+        "aconsejar / recomendar / sugerir que + subjuntivo",
+        "es mejor / importante / necesario que + subjuntivo",
+        "yo que tú + condicional"
+       ],
+       "vocab": "个人问题与困扰",
+       "functions": [
+        "倾听烦恼、给出建议"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "b1u2",
+     "title": "讲述与转述",
+     "subtitle": "Narrar",
+     "lessons": [
+      {
+       "id": "b1u2l1",
+       "title": "过去完成时",
+       "subtitle": "Ya se había ido",
+       "icon": "clock.arrow.circlepath",
+       "grammar": [
+        "pretérito pluscuamperfecto: había + participio",
+        "ya / todavía no en pasado"
+       ],
+       "vocab": "经历、误会",
+       "functions": [
+        "讲述过去之前发生的事"
+       ]
+      },
+      {
+       "id": "b1u2l2",
+       "title": "完整叙事",
+       "subtitle": "Contar una historia",
+       "icon": "book",
+       "grammar": [
+        "combinación indefinido / imperfecto / pluscuamperfecto",
+        "conectores: al principio, mientras, en cuanto, al cabo de, finalmente"
+       ],
+       "vocab": "故事、新闻、传说",
+       "functions": [
+        "有结构地讲述一个故事"
+       ],
+       "culture": "一个西班牙城市传说"
+      },
+      {
+       "id": "b1u2l3",
+       "title": "转述（现在）",
+       "subtitle": "Dice que…",
+       "icon": "quote.bubble",
+       "grammar": [
+        "estilo indirecto en presente",
+        "verbos: comentar, contar, explicar, preguntar si, pedir que"
+       ],
+       "vocab": "传话",
+       "functions": [
+        "转述别人说的话"
+       ]
+      },
+      {
+       "id": "b1u2l4",
+       "title": "转述（过去）",
+       "subtitle": "Me dijo que vendría",
+       "icon": "text.quote",
+       "grammar": [
+        "estilo indirecto en pasado: correlación de tiempos (presente → imperfecto, futuro → condicional, indefinido → pluscuamperfecto)",
+        "cambios: aquí → allí, mañana → al día siguiente"
+       ],
+       "vocab": "传话、八卦",
+       "functions": [
+        "转述过去的对话"
+       ]
+      },
+      {
+       "id": "b1u2l5",
+       "title": "新闻与事件",
+       "subtitle": "Sucesos",
+       "icon": "newspaper",
+       "grammar": [
+        "voz pasiva con ser y pasiva refleja",
+        "titulares de prensa"
+       ],
+       "vocab": "社会新闻",
+       "functions": [
+        "讲述和评论新闻"
+       ],
+       "culture": "西班牙主要媒体：El País、El Mundo、RTVE、Cadena SER"
+      }
+     ]
+    },
+    {
+     "id": "b1u3",
+     "title": "工作",
+     "subtitle": "El trabajo",
+     "lessons": [
+      {
+       "id": "b1u3l1",
+       "title": "求职",
+       "subtitle": "Buscar trabajo",
+       "icon": "magnifyingglass",
+       "grammar": [
+        "oraciones de relativo con indicativo / subjuntivo: busco a alguien que hable…",
+        "conocer a alguien que / no hay nadie que"
+       ],
+       "vocab": "招聘广告、技能",
+       "functions": [
+        "描述理想的工作和要求"
+       ],
+       "culture": "InfoJobs、LinkedIn、periodo de prueba"
+      },
+      {
+       "id": "b1u3l2",
+       "title": "面试",
+       "subtitle": "La entrevista",
+       "icon": "person.2",
+       "grammar": [
+        "condicional simple: me gustaría, podría, sería",
+        "trato de usted"
+       ],
+       "vocab": "面试问答",
+       "functions": [
+        "自我介绍、回答面试问题"
+       ]
+      },
+      {
+       "id": "b1u3l3",
+       "title": "职场邮件",
+       "subtitle": "Correos formales",
+       "icon": "envelope",
+       "grammar": [
+        "fórmulas: Estimado/a, Le escribo para, Adjunto le envío, Quedo a la espera, Un saludo",
+        "condicional de cortesía"
+       ],
+       "vocab": "办公室",
+       "functions": [
+        "写正式邮件"
+       ]
+      },
+      {
+       "id": "b1u3l4",
+       "title": "工作条件",
+       "subtitle": "Condiciones laborales",
+       "icon": "doc.text",
+       "grammar": [
+        "por y para",
+        "expresar obligación y permiso"
+       ],
+       "vocab": "合同、工资、工时、假期",
+       "functions": [
+        "谈论工作条件"
+       ],
+       "culture": "jornada partida / intensiva、puente、paga extra"
+      },
+      {
+       "id": "b1u3l5",
+       "title": "抱怨与提议",
+       "subtitle": "Quejas y propuestas",
+       "icon": "megaphone",
+       "grammar": [
+        "no es justo que / me parece fatal que / no soporto que + subjuntivo",
+        "propuestas: ¿Y si…? Propongo que…"
+       ],
+       "vocab": "职场问题",
+       "functions": [
+        "抱怨、提出解决办法"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "b1u4",
+     "title": "旅行与自然",
+     "subtitle": "Viajes y naturaleza",
+     "lessons": [
+      {
+       "id": "b1u4l1",
+       "title": "计划旅行",
+       "subtitle": "Organizar un viaje",
+       "icon": "airplane.departure",
+       "grammar": [
+        "condicionales reales: si + presente, futuro / imperativo",
+        "futuro y condicional"
+       ],
+       "vocab": "住宿、交通、行程",
+       "functions": [
+        "计划和预订旅行"
+       ],
+       "culture": "西班牙的 Paradores 与 AVE 高铁"
+      },
+      {
+       "id": "b1u4l2",
+       "title": "旅途意外",
+       "subtitle": "Imprevistos",
+       "icon": "exclamationmark.triangle",
+       "grammar": [
+        "se accidental: se me ha olvidado, se me ha perdido, se me ha roto",
+        "reclamar: he perdido…, me han robado…"
+       ],
+       "vocab": "旅行中的问题",
+       "functions": [
+        "说明问题、寻求帮助"
+       ]
+      },
+      {
+       "id": "b1u4l3",
+       "title": "西班牙地理",
+       "subtitle": "La geografía de España",
+       "icon": "globe.europe.africa",
+       "grammar": [
+        "superlativos y comparaciones con cantidades: más de, menos de",
+        "ser / estar para localizar"
+       ],
+       "vocab": "地理、气候、地区",
+       "functions": [
+        "介绍地方"
+       ],
+       "culture": "17 个自治区；加泰罗尼亚语、加利西亚语、巴斯克语是官方语言之一"
+      },
+      {
+       "id": "b1u4l4",
+       "title": "环境",
+       "subtitle": "El medio ambiente",
+       "icon": "leaf",
+       "grammar": [
+        "es necesario / urgente que + subjuntivo",
+        "imperativo negativo: no tires, no uses"
+       ],
+       "vocab": "环保、气候",
+       "functions": [
+        "讨论环境问题"
+       ]
+      },
+      {
+       "id": "b1u4l5",
+       "title": "写游记",
+       "subtitle": "Un relato de viaje",
+       "icon": "map",
+       "grammar": [
+        "narración y descripción en pasado",
+        "adjetivos valorativos: impresionante, decepcionante"
+       ],
+       "vocab": "游记",
+       "functions": [
+        "写一篇游记"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "b1u5",
+     "title": "观点与讨论",
+     "subtitle": "Opinar",
+     "lessons": [
+      {
+       "id": "b1u5l1",
+       "title": "表达观点",
+       "subtitle": "Creo que… / No creo que…",
+       "icon": "text.bubble",
+       "grammar": [
+        "creer / pensar / parecer que + indicativo",
+        "no creer / no pensar que + subjuntivo"
+       ],
+       "vocab": "社会话题",
+       "functions": [
+        "表达和询问观点"
+       ]
+      },
+      {
+       "id": "b1u5l2",
+       "title": "同意与反对",
+       "subtitle": "Estoy de acuerdo",
+       "icon": "hand.thumbsup",
+       "grammar": [
+        "es verdad / está claro que + indicativo",
+        "no es verdad / no está claro que + subjuntivo",
+        "fórmulas de acuerdo y desacuerdo"
+       ],
+       "vocab": "讨论",
+       "functions": [
+        "同意、反对、部分同意"
+       ]
+      },
+      {
+       "id": "b1u5l3",
+       "title": "科技与网络",
+       "subtitle": "Tecnología y redes",
+       "icon": "iphone",
+       "grammar": [
+        "para + infinitivo / para que + subjuntivo"
+       ],
+       "vocab": "科技、社交网络",
+       "functions": [
+        "讨论科技的利弊"
+       ]
+      },
+      {
+       "id": "b1u5l4",
+       "title": "教育",
+       "subtitle": "La educación",
+       "icon": "graduationcap",
+       "grammar": [
+        "cuando + subjuntivo (futuro) / + indicativo (habitual)",
+        "antes de / después de + infinitivo"
+       ],
+       "vocab": "教育体系",
+       "functions": [
+        "谈论学习经历和教育"
+       ],
+       "culture": "ESO、Bachillerato、EBAU（selectividad）、Erasmus"
+      },
+      {
+       "id": "b1u5l5",
+       "title": "广告与媒体",
+       "subtitle": "Publicidad",
+       "icon": "tv",
+       "grammar": [
+        "imperativo negativo con pronombres: no lo compres, cómpralo",
+        "lo + adjetivo: lo mejor, lo bueno"
+       ],
+       "vocab": "广告",
+       "functions": [
+        "分析广告、劝说"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "b1u6",
+     "title": "文化与休闲",
+     "subtitle": "Cultura y ocio",
+     "lessons": [
+      {
+       "id": "b1u6l1",
+       "title": "电影与剧集",
+       "subtitle": "Cine y series",
+       "icon": "film",
+       "grammar": [
+        "valoraciones: me pareció, lo mejor fue, me dejó…",
+        "lo que + verbo"
+       ],
+       "vocab": "电影",
+       "functions": [
+        "推荐和评价电影"
+       ],
+       "culture": "阿莫多瓦；《纸钞屋》《精英学校》等西班牙剧"
+      },
+      {
+       "id": "b1u6l2",
+       "title": "音乐与艺术",
+       "subtitle": "Música y arte",
+       "icon": "paintpalette",
+       "grammar": [
+        "relativos con preposición: el que, la que, en el que, con quien"
+       ],
+       "vocab": "艺术、音乐",
+       "functions": [
+        "描述艺术作品"
+       ],
+       "culture": "普拉多博物馆、戈雅、委拉斯开兹、弗拉门戈"
+      },
+      {
+       "id": "b1u6l3",
+       "title": "读书",
+       "subtitle": "Libros",
+       "icon": "books.vertical",
+       "grammar": [
+        "condicional para hipótesis: yo en tu lugar…",
+        "me gustaría que + imperfecto de subjuntivo (introducción)"
+       ],
+       "vocab": "文学",
+       "functions": [
+        "推荐书籍"
+       ],
+       "culture": "塞万提斯、洛尔迦；4 月 23 日图书节"
+      },
+      {
+       "id": "b1u6l4",
+       "title": "饮食文化",
+       "subtitle": "Comer en España",
+       "icon": "cup.and.saucer",
+       "grammar": [
+        "perífrasis: acabar de, volver a, dejar de, empezar a, ponerse a"
+       ],
+       "vocab": "地方美食",
+       "functions": [
+        "谈论饮食习惯"
+       ],
+       "culture": "sobremesa、vermut、各地特色菜"
+      },
+      {
+       "id": "b1u6l5",
+       "title": "B1 综合复习",
+       "subtitle": "Repaso B1",
+       "icon": "checkmark.seal",
+       "grammar": [
+        "repaso: presente de subjuntivo, estilo indirecto, tiempos del pasado, condicional"
+       ],
+       "vocab": "综合",
+       "functions": [
+        "表达观点并讲述经历"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "B2",
+   "title": "中高级",
+   "subtitle": "Avanzado",
+   "summary": "能流利、自然地和母语者交流，就各种话题清楚、详细地表达并论证观点，读懂报刊文章。",
+   "color": "azul",
+   "units": [
+    {
+     "id": "b2u1",
+     "title": "虚拟式进阶",
+     "subtitle": "Subjuntivo avanzado",
+     "lessons": [
+      {
+       "id": "b2u1l1",
+       "title": "虚拟式过去时",
+       "subtitle": "Si tuviera tiempo…",
+       "icon": "sparkles",
+       "grammar": [
+        "imperfecto de subjuntivo (-ra / -se)",
+        "si + imperfecto de subjuntivo, condicional",
+        "como si + imperfecto de subjuntivo"
+       ],
+       "vocab": "假设情景",
+       "functions": [
+        "谈论不现实的假设"
+       ]
+      },
+      {
+       "id": "b2u1l2",
+       "title": "时态配合",
+       "subtitle": "Quería que vinieras",
+       "icon": "clock.arrow.circlepath",
+       "grammar": [
+        "correlación de tiempos con subjuntivo en pasado",
+        "me gustaría que + imperfecto de subjuntivo"
+       ],
+       "vocab": "过去的期望",
+       "functions": [
+        "讲述过去的愿望、请求和感受"
+       ]
+      },
+      {
+       "id": "b2u1l3",
+       "title": "时间从句",
+       "subtitle": "En cuanto llegues",
+       "icon": "hourglass",
+       "grammar": [
+        "temporales con subjuntivo: en cuanto, antes de que, hasta que, después de que, mientras"
+       ],
+       "vocab": "日程、条件",
+       "functions": [
+        "谈论将来的时间顺序"
+       ]
+      },
+      {
+       "id": "b2u1l4",
+       "title": "让步",
+       "subtitle": "Aunque llueva",
+       "icon": "cloud.rain",
+       "grammar": [
+        "aunque + indicativo / subjuntivo",
+        "por mucho que, a pesar de que, por más que"
+       ],
+       "vocab": "坚持、困难",
+       "functions": [
+        "表达让步"
+       ]
+      },
+      {
+       "id": "b2u1l5",
+       "title": "目的与条件",
+       "subtitle": "Con tal de que",
+       "icon": "list.bullet",
+       "grammar": [
+        "para que, a fin de que, siempre que, a no ser que, en caso de que, con tal de que"
+       ],
+       "vocab": "规定、协议",
+       "functions": [
+        "设定条件、说明目的"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "b2u2",
+     "title": "社会议题",
+     "subtitle": "Sociedad",
+     "lessons": [
+      {
+       "id": "b2u2l1",
+       "title": "今日西班牙",
+       "subtitle": "La España de hoy",
+       "icon": "chart.bar",
+       "grammar": [
+        "estructuras impersonales y pasivas en textos informativos",
+        "cifras y porcentajes"
+       ],
+       "vocab": "人口、社会变迁",
+       "functions": [
+        "描述社会趋势"
+       ],
+       "culture": "la España vaciada（人口流失的乡村）"
+      },
+      {
+       "id": "b2u2l2",
+       "title": "多元社会",
+       "subtitle": "Diversidad",
+       "icon": "person.3",
+       "grammar": [
+        "conectores argumentativos: además, sin embargo, por lo tanto, en cambio, no obstante"
+       ],
+       "vocab": "多元文化",
+       "functions": [
+        "平衡地陈述不同观点"
+       ]
+      },
+      {
+       "id": "b2u2l3",
+       "title": "平等",
+       "subtitle": "Igualdad",
+       "icon": "person.2",
+       "grammar": [
+        "valoraciones con subjuntivo: es indignante / lógico / normal que",
+        "debate sobre el lenguaje inclusivo"
+       ],
+       "vocab": "平等话题",
+       "functions": [
+        "讨论敏感话题时措辞得体"
+       ]
+      },
+      {
+       "id": "b2u2l4",
+       "title": "负责任的消费",
+       "subtitle": "Consumo responsable",
+       "icon": "cart",
+       "grammar": [
+        "oraciones causales: ya que, puesto que, como, dado que, debido a"
+       ],
+       "vocab": "消费、可持续",
+       "functions": [
+        "解释原因"
+       ]
+      },
+      {
+       "id": "b2u2l5",
+       "title": "辩论技巧",
+       "subtitle": "Debatir",
+       "icon": "bubble.left.and.bubble.right",
+       "grammar": [
+        "no es que + subjuntivo, sino que + indicativo",
+        "matizar, ceder la palabra, rebatir"
+       ],
+       "vocab": "辩论用语",
+       "functions": [
+        "参与辩论"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "b2u3",
+     "title": "职场进阶",
+     "subtitle": "Mundo profesional",
+     "lessons": [
+      {
+       "id": "b2u3l1",
+       "title": "会议与谈判",
+       "subtitle": "Reuniones y negociación",
+       "icon": "person.3",
+       "grammar": [
+        "sería conveniente que + imperfecto de subjuntivo",
+        "atenuación de propuestas"
+       ],
+       "vocab": "会议、谈判",
+       "functions": [
+        "主持会议、谈判"
+       ]
+      },
+      {
+       "id": "b2u3l2",
+       "title": "展示数据",
+       "subtitle": "Presentar datos",
+       "icon": "chart.line.uptrend.xyaxis",
+       "grammar": [
+        "verbos de tendencia: aumentar, disminuir, mantenerse, dispararse",
+        "expresiones de cantidad y porcentajes"
+       ],
+       "vocab": "经济、数据",
+       "functions": [
+        "描述图表和趋势"
+       ]
+      },
+      {
+       "id": "b2u3l3",
+       "title": "正式写作",
+       "subtitle": "Escritura formal",
+       "icon": "doc.text",
+       "grammar": [
+        "nominalización",
+        "conectores formales: asimismo, en lo que respecta a, cabe destacar"
+       ],
+       "vocab": "报告",
+       "functions": [
+        "写报告和正式信件"
+       ]
+      },
+      {
+       "id": "b2u3l4",
+       "title": "工业与技术",
+       "subtitle": "Industria y tecnología",
+       "icon": "gearshape",
+       "grammar": [
+        "pasiva refleja y se en procesos: se fabrica, se mecaniza, se suelda, se inspecciona"
+       ],
+       "vocab": "制造、质量控制、订单、交期、规范",
+       "functions": [
+        "描述生产流程、处理客户问题"
+       ]
+      },
+      {
+       "id": "b2u3l5",
+       "title": "职场人际",
+       "subtitle": "Relaciones laborales",
+       "icon": "person.2",
+       "grammar": [
+        "estilo indirecto con peticiones y órdenes: me pidió que + imperfecto de subjuntivo"
+       ],
+       "vocab": "职场冲突",
+       "functions": [
+        "处理分歧、转述要求"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "b2u4",
+     "title": "媒体与语言",
+     "subtitle": "Medios y lengua",
+     "lessons": [
+      {
+       "id": "b2u4l1",
+       "title": "读报",
+       "subtitle": "Leer la prensa",
+       "icon": "newspaper",
+       "grammar": [
+        "titulares: presente histórico, elipsis",
+        "condicional de rumor: según fuentes, habría…"
+       ],
+       "vocab": "新闻用语",
+       "functions": [
+        "读懂新闻标题和报道"
+       ]
+      },
+      {
+       "id": "b2u4l2",
+       "title": "评论文章",
+       "subtitle": "Artículos de opinión",
+       "icon": "text.quote",
+       "grammar": [
+        "marcadores discursivos: es decir, o sea, de hecho, en realidad, en cualquier caso"
+       ],
+       "vocab": "评论",
+       "functions": [
+        "理解和写评论"
+       ]
+      },
+      {
+       "id": "b2u4l3",
+       "title": "西语的变体",
+       "subtitle": "Variedades del español",
+       "icon": "globe",
+       "grammar": [
+        "vosotros y ustedes, voseo",
+        "distinción, seseo y ceceo",
+        "diferencias léxicas España / América"
+       ],
+       "vocab": "地区差异",
+       "functions": [
+        "识别不同地区的西语"
+       ],
+       "culture": "西班牙与拉美西语的主要区别"
+      },
+      {
+       "id": "b2u4l4",
+       "title": "语域",
+       "subtitle": "Registros",
+       "icon": "quote.bubble",
+       "grammar": [
+        "registro formal y coloquial",
+        "tú y usted en la España actual"
+       ],
+       "vocab": "口语与正式用语",
+       "functions": [
+        "根据场合调整语言"
+       ],
+       "culture": "西班牙人比拉美人更早用 tú 称呼对方"
+      },
+      {
+       "id": "b2u4l5",
+       "title": "假朋友",
+       "subtitle": "Falsos amigos",
+       "icon": "exclamationmark.bubble",
+       "grammar": [
+        "falsos amigos con el inglés: embarazada, constipado, éxito, actual, librería, carpeta, sensible"
+       ],
+       "vocab": "易混词",
+       "functions": [
+        "避免常见误用"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "b2u5",
+     "title": "假设与推测",
+     "subtitle": "Hipótesis",
+     "lessons": [
+      {
+       "id": "b2u5l1",
+       "title": "推测",
+       "subtitle": "Estará en casa",
+       "icon": "questionmark.circle",
+       "grammar": [
+        "futuro y condicional de probabilidad: estará, habrá llegado, sería, habría"
+       ],
+       "vocab": "推测",
+       "functions": [
+        "对现在和过去做推测"
+       ]
+      },
+      {
+       "id": "b2u5l2",
+       "title": "过去的假设",
+       "subtitle": "Si hubiera sabido…",
+       "icon": "clock",
+       "grammar": [
+        "pluscuamperfecto de subjuntivo",
+        "condicional compuesto",
+        "condicionales mixtas"
+       ],
+       "vocab": "人生选择",
+       "functions": [
+        "谈论过去没发生的事"
+       ]
+      },
+      {
+       "id": "b2u5l3",
+       "title": "后悔与责备",
+       "subtitle": "Ojalá hubiera…",
+       "icon": "cloud",
+       "grammar": [
+        "ojalá + pluscuamperfecto de subjuntivo",
+        "debería haber + participio",
+        "¡Haberlo dicho antes!"
+       ],
+       "vocab": "后悔",
+       "functions": [
+        "表达后悔、责备"
+       ]
+      },
+      {
+       "id": "b2u5l4",
+       "title": "可能性",
+       "subtitle": "Puede que…",
+       "icon": "sparkles",
+       "grammar": [
+        "puede que, es probable que + subjuntivo",
+        "quizás / tal vez + indicativo o subjuntivo"
+       ],
+       "vocab": "可能性",
+       "functions": [
+        "评估可能性"
+       ]
+      },
+      {
+       "id": "b2u5l5",
+       "title": "未来社会",
+       "subtitle": "El futuro",
+       "icon": "cpu",
+       "grammar": [
+        "futuro compuesto: habré terminado",
+        "subjuntivo en predicciones"
+       ],
+       "vocab": "科技、人工智能",
+       "functions": [
+        "预测未来"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "b2u6",
+     "title": "表达与文学",
+     "subtitle": "Expresión",
+     "lessons": [
+      {
+       "id": "b2u6l1",
+       "title": "精确描写",
+       "subtitle": "Describir con precisión",
+       "icon": "paintbrush",
+       "grammar": [
+        "posición del adjetivo y cambio de significado: un gran hombre / un hombre grande, un viejo amigo / un amigo viejo"
+       ],
+       "vocab": "描写",
+       "functions": [
+        "生动描写人和场景"
+       ]
+      },
+      {
+       "id": "b2u6l2",
+       "title": "日常习语",
+       "subtitle": "Modismos",
+       "icon": "quote.bubble",
+       "grammar": [
+        "frases hechas: estar en las nubes, tomar el pelo, ser pan comido, meter la pata, costar un ojo de la cara"
+       ],
+       "vocab": "习语",
+       "functions": [
+        "理解和使用常见习语"
+       ]
+      },
+      {
+       "id": "b2u6l3",
+       "title": "西班牙文学经典",
+       "subtitle": "Clásicos",
+       "icon": "book.closed",
+       "grammar": [
+        "tiempos verbales en la narración literaria"
+       ],
+       "vocab": "文学",
+       "functions": [
+        "读懂经典片段"
+       ],
+       "culture": "《堂吉诃德》《小癞子》、二七年一代"
+      },
+      {
+       "id": "b2u6l4",
+       "title": "指小词与指大词",
+       "subtitle": "Diminutivos y aumentativos",
+       "icon": "face.smiling",
+       "grammar": [
+        "-ito, -illo, -ico, -azo, -ón, -ucho y sus matices afectivos o despectivos"
+       ],
+       "vocab": "情感色彩",
+       "functions": [
+        "用词缀表达情感"
+       ],
+       "culture": "各地偏好的指小词：-ito（中部）、-illo（安达卢西亚）、-ico（阿拉贡）、-iño（加利西亚）"
+      },
+      {
+       "id": "b2u6l5",
+       "title": "B2 综合复习",
+       "subtitle": "Repaso B2",
+       "icon": "checkmark.seal",
+       "grammar": [
+        "repaso: subjuntivo, condicionales, conectores, estilo indirecto"
+       ],
+       "vocab": "综合",
+       "functions": [
+        "论证并讲述复杂事件"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "C1",
+   "title": "高级",
+   "subtitle": "Dominio operativo eficaz",
+   "summary": "能理解长而复杂的文本和隐含意义，流利自如地表达，在社交、学术和职业场合灵活、有效地使用语言。",
+   "color": "morado",
+   "units": [
+    {
+     "id": "c1u1",
+     "title": "语法精细",
+     "subtitle": "Matices gramaticales",
+     "lessons": [
+      {
+       "id": "c1u1l1",
+       "title": "语气的细微差别",
+       "subtitle": "Indicativo o subjuntivo",
+       "icon": "slider.horizontal.3",
+       "grammar": [
+        "el hecho de que + subjuntivo",
+        "que + subjuntivo en posición inicial",
+        "verbos de percepción y comunicación negados",
+        "decir que + indicativo / subjuntivo"
+       ],
+       "vocab": "细微差别",
+       "functions": [
+        "准确选择语气"
+       ]
+      },
+      {
+       "id": "c1u1l2",
+       "title": "冠词高级用法",
+       "subtitle": "Artículos",
+       "icon": "textformat",
+       "grammar": [
+        "ausencia de artículo",
+        "lo + adjetivo / adverbio: lo bien que",
+        "artículo con valor posesivo"
+       ],
+       "vocab": "抽象表达",
+       "functions": [
+        "精准使用限定词"
+       ]
+      },
+      {
+       "id": "c1u1l3",
+       "title": "代词与 se",
+       "subtitle": "Pronombres",
+       "icon": "person.crop.circle",
+       "grammar": [
+        "valores de se: pasivo, impersonal, recíproco, aspectual (me lo comí)",
+        "leísmo aceptado; laísmo en el habla de Madrid"
+       ],
+       "vocab": "代词",
+       "functions": [
+        "掌握 se 的各种用法"
+       ]
+      },
+      {
+       "id": "c1u1l4",
+       "title": "迂说法",
+       "subtitle": "Perífrasis verbales",
+       "icon": "arrow.triangle.branch",
+       "grammar": [
+        "llegar a, venir a, andar + gerundio, llevar + participio, tener + participio, ponerse a, echarse a, romper a"
+       ],
+       "vocab": "动作的阶段与态度",
+       "functions": [
+        "用迂说法表达细微含义"
+       ]
+      },
+      {
+       "id": "c1u1l5",
+       "title": "被动与无人称",
+       "subtitle": "Impersonalidad",
+       "icon": "person",
+       "grammar": [
+        "pasiva perifrástica vs refleja",
+        "impersonal con se, uno, la gente, tercera persona del plural"
+       ],
+       "vocab": "正式与非正式",
+       "functions": [
+        "根据语域选择结构"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "c1u2",
+     "title": "学术与职业表达",
+     "subtitle": "Discurso formal",
+     "lessons": [
+      {
+       "id": "c1u2l1",
+       "title": "论证",
+       "subtitle": "Argumentar",
+       "icon": "list.number",
+       "grammar": [
+        "organizadores del discurso: en primer lugar, por otra parte, en definitiva",
+        "concesivas: si bien, aun cuando, por más que"
+       ],
+       "vocab": "论证",
+       "functions": [
+        "构建有说服力的论证"
+       ]
+      },
+      {
+       "id": "c1u2l2",
+       "title": "公开演讲",
+       "subtitle": "Hablar en público",
+       "icon": "mic",
+       "grammar": [
+        "recursos retóricos: preguntas retóricas, enumeraciones, paralelismos"
+       ],
+       "vocab": "演讲",
+       "functions": [
+        "做演讲和回答提问"
+       ]
+      },
+      {
+       "id": "c1u2l3",
+       "title": "学术写作",
+       "subtitle": "Escritura académica",
+       "icon": "pencil",
+       "grammar": [
+        "modalización: cabe señalar, conviene destacar, cabría preguntarse",
+        "citas y referencias"
+       ],
+       "vocab": "学术用语",
+       "functions": [
+        "写学术文章"
+       ]
+      },
+      {
+       "id": "c1u2l4",
+       "title": "说服",
+       "subtitle": "Persuadir",
+       "icon": "hand.raised",
+       "grammar": [
+        "atenuación: ¿no le parece que…?, lítotes, condicional de cortesía"
+       ],
+       "vocab": "谈判",
+       "functions": [
+        "委婉而有力地说服"
+       ]
+      },
+      {
+       "id": "c1u2l5",
+       "title": "行政与法律语言",
+       "subtitle": "Lenguaje administrativo",
+       "icon": "building.columns",
+       "grammar": [
+        "futuro de subjuntivo en textos legales (quien infringiere)",
+        "gerundio en textos administrativos",
+        "fórmulas: por la presente, a los efectos oportunos"
+       ],
+       "vocab": "公文",
+       "functions": [
+        "读懂官方文件"
+       ],
+       "culture": "BOE（国家官方公报）"
+      }
+     ]
+    },
+    {
+     "id": "c1u3",
+     "title": "地道口语",
+     "subtitle": "Español coloquial",
+     "lessons": [
+      {
+       "id": "c1u3l1",
+       "title": "对话标记词",
+       "subtitle": "Marcadores conversacionales",
+       "icon": "bubble.left.and.bubble.right",
+       "grammar": [
+        "pues, bueno, vale, venga, hombre / mujer, o sea, ¿sabes?, es que, anda"
+       ],
+       "vocab": "口语填充词",
+       "functions": [
+        "像母语者一样组织对话"
+       ]
+      },
+      {
+       "id": "c1u3l2",
+       "title": "快速口语",
+       "subtitle": "Habla rápida",
+       "icon": "waveform",
+       "grammar": [
+        "elisiones: pa', -ao en participios (cansao), to' (todo)",
+        "entonación y ritmo del español peninsular"
+       ],
+       "vocab": "口语语音",
+       "functions": [
+        "听懂快速口语"
+       ]
+      },
+      {
+       "id": "c1u3l3",
+       "title": "西班牙俚语",
+       "subtitle": "Jerga de España",
+       "icon": "flame",
+       "grammar": [
+        "léxico coloquial: guay, mola, flipar, currar, curro, pasta, tío / tía, majo, chungo, mogollón, quedarse frito"
+       ],
+       "vocab": "俚语",
+       "functions": [
+        "理解和恰当使用俚语"
+       ]
+      },
+      {
+       "id": "c1u3l4",
+       "title": "动物与食物习语",
+       "subtitle": "Expresiones con animales y comida",
+       "icon": "tortoise",
+       "grammar": [
+        "ser un gallina, estar como una cabra, dar gato por liebre, importar un pimiento, ser la leche, pedir peras al olmo"
+       ],
+       "vocab": "习语",
+       "functions": [
+        "使用形象的习语"
+       ]
+      },
+      {
+       "id": "c1u3l5",
+       "title": "情绪与感叹",
+       "subtitle": "Expresar emociones",
+       "icon": "exclamationmark.bubble",
+       "grammar": [
+        "exclamativas: ¡Qué…!, ¡Cuánto…!, ¡Cómo…!",
+        "interjecciones: ¡Venga ya!, ¡Anda!, ¡Hala!, ¡Vaya!",
+        "eufemismos"
+       ],
+       "vocab": "感叹与情绪",
+       "functions": [
+        "自然地表达情绪"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "c1u4",
+     "title": "社会与文化",
+     "subtitle": "Sociocultural",
+     "lessons": [
+      {
+       "id": "c1u4l1",
+       "title": "国家制度",
+       "subtitle": "Instituciones",
+       "icon": "building.columns",
+       "grammar": [
+        "voz pasiva y nominalización en textos institucionales"
+       ],
+       "vocab": "政治制度（中立描述）",
+       "functions": [
+        "描述国家机构"
+       ],
+       "culture": "议会君主制、Congreso 与 Senado、自治区制度"
+      },
+      {
+       "id": "c1u4l2",
+       "title": "西班牙历史",
+       "subtitle": "Historia de España",
+       "icon": "book.closed",
+       "grammar": [
+        "presente histórico",
+        "indefinido narrativo"
+       ],
+       "vocab": "历史",
+       "functions": [
+        "概述历史事件"
+       ],
+       "culture": "安达卢斯、1492、内战、民主过渡（la Transición）"
+      },
+      {
+       "id": "c1u4l3",
+       "title": "地区与身份",
+       "subtitle": "Regiones e identidades",
+       "icon": "map",
+       "grammar": [
+        "comparativas avanzadas"
+       ],
+       "vocab": "地区文化",
+       "functions": [
+        "比较不同地区的文化"
+       ],
+       "culture": "加泰罗尼亚、巴斯克、加利西亚、安达卢西亚的语言与习俗"
+      },
+      {
+       "id": "c1u4l4",
+       "title": "社交潜规则",
+       "subtitle": "Normas sociales",
+       "icon": "person.2",
+       "grammar": [
+        "se suele, no está bien visto que + subjuntivo",
+        "impersonales normativas"
+       ],
+       "vocab": "礼仪",
+       "functions": [
+        "理解社交潜规则"
+       ],
+       "culture": "两颊吻、何时用 tú、守时、sobremesa、轮流请客（invitar a una ronda）"
+      },
+      {
+       "id": "c1u4l5",
+       "title": "流行文化",
+       "subtitle": "Cultura popular",
+       "icon": "music.note",
+       "grammar": [
+        "léxico de redes y cultura juvenil"
+       ],
+       "vocab": "流行文化",
+       "functions": [
+        "谈论当代文化"
+       ],
+       "culture": "当代西班牙音乐、剧集与网络文化"
+      }
+     ]
+    },
+    {
+     "id": "c1u5",
+     "title": "词汇精度",
+     "subtitle": "Precisión léxica",
+     "lessons": [
+      {
+       "id": "c1u5l1",
+       "title": "近义词辨析",
+       "subtitle": "Sinónimos con matices",
+       "icon": "character.book.closed",
+       "grammar": [
+        "decir / comentar / afirmar / sostener; mirar / ver / observar; cambiar / modificar / alterar"
+       ],
+       "vocab": "近义词",
+       "functions": [
+        "选择最准确的词"
+       ]
+      },
+      {
+       "id": "c1u5l2",
+       "title": "构词法",
+       "subtitle": "Formación de palabras",
+       "icon": "puzzlepiece",
+       "grammar": [
+        "prefijos y sufijos: des-, re-, in-, -miento, -dad, -ble, -ción"
+       ],
+       "vocab": "派生词",
+       "functions": [
+        "推测生词意思"
+       ]
+      },
+      {
+       "id": "c1u5l3",
+       "title": "搭配",
+       "subtitle": "Colocaciones",
+       "icon": "link",
+       "grammar": [
+        "tomar una decisión, poner en marcha, llevar a cabo, dar un paso, prestar atención"
+       ],
+       "vocab": "固定搭配",
+       "functions": [
+        "说出地道的搭配"
+       ]
+      },
+      {
+       "id": "c1u5l4",
+       "title": "介词难点",
+       "subtitle": "Preposiciones",
+       "icon": "arrow.right.circle",
+       "grammar": [
+        "por / para avanzado",
+        "verbos con preposición: consistir en, depender de, soñar con, tardar en, acordarse de"
+       ],
+       "vocab": "介词",
+       "functions": [
+        "正确使用介词"
+       ]
+      },
+      {
+       "id": "c1u5l5",
+       "title": "C1 综合复习",
+       "subtitle": "Repaso C1",
+       "icon": "checkmark.seal",
+       "grammar": [
+        "repaso de C1"
+       ],
+       "vocab": "综合",
+       "functions": [
+        "DELE C1 题型练习"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "C2",
+   "title": "精通",
+   "subtitle": "Maestría",
+   "summary": "接近受过教育的母语者：能毫不费力地理解一切，包括幽默、反讽和文化典故，表达精确、地道、富有层次。",
+   "color": "tinto",
+   "units": [
+    {
+     "id": "c2u1",
+     "title": "语用与语感",
+     "subtitle": "Intuición nativa",
+     "lessons": [
+      {
+       "id": "c2u1l1",
+       "title": "言外之意",
+       "subtitle": "Lo que no se dice",
+       "icon": "eye",
+       "grammar": [
+        "implicaturas, ironía, cortesía positiva y negativa, atenuación e intensificación"
+       ],
+       "vocab": "语用",
+       "functions": [
+        "读懂言外之意"
+       ]
+      },
+      {
+       "id": "c2u1l2",
+       "title": "语调与意义",
+       "subtitle": "Entonación",
+       "icon": "waveform",
+       "grammar": [
+        "entonación expresiva, énfasis contrastivo, ¿no?, ¿eh?, ¿verdad?"
+       ],
+       "vocab": "语调",
+       "functions": [
+        "用语调表达态度"
+       ]
+      },
+      {
+       "id": "c2u1l3",
+       "title": "修辞",
+       "subtitle": "Recursos retóricos",
+       "icon": "theatermasks",
+       "grammar": [
+        "metáfora, ironía, hipérbole, litote en el habla cotidiana"
+       ],
+       "vocab": "修辞",
+       "functions": [
+        "理解和运用修辞"
+       ]
+      },
+      {
+       "id": "c2u1l4",
+       "title": "双关与文字游戏",
+       "subtitle": "Juegos de palabras",
+       "icon": "face.smiling",
+       "grammar": [
+        "dobles sentidos, chistes, refranes alterados"
+       ],
+       "vocab": "幽默",
+       "functions": [
+        "听懂文字游戏"
+       ]
+      },
+      {
+       "id": "c2u1l5",
+       "title": "语域转换",
+       "subtitle": "Cambio de registro",
+       "icon": "arrow.left.arrow.right",
+       "grammar": [
+        "reformular un mismo contenido en registro vulgar, coloquial, neutro, culto"
+       ],
+       "vocab": "语域",
+       "functions": [
+        "在语域间自由切换"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "c2u2",
+     "title": "谚语与典故",
+     "subtitle": "Refranes y referencias",
+     "lessons": [
+      {
+       "id": "c2u2l1",
+       "title": "谚语",
+       "subtitle": "Refranes",
+       "icon": "quote.bubble",
+       "grammar": [
+        "refranes frecuentes y su uso: Más vale tarde que nunca, En boca cerrada no entran moscas, A quien madruga Dios le ayuda"
+       ],
+       "vocab": "谚语",
+       "functions": [
+        "恰当引用谚语"
+       ]
+      },
+      {
+       "id": "c2u2l2",
+       "title": "文化典故",
+       "subtitle": "Referencias culturales",
+       "icon": "books.vertical",
+       "grammar": [
+        "adjetivos y expresiones de origen cultural: quijotesco, dantesco, kafkiano, un donjuán, la España de pandereta"
+       ],
+       "vocab": "典故",
+       "functions": [
+        "理解文化典故"
+       ]
+      },
+      {
+       "id": "c2u2l3",
+       "title": "西班牙式幽默",
+       "subtitle": "Humor español",
+       "icon": "face.smiling",
+       "grammar": [
+        "humor absurdo, ironía, retranca gallega, humor gráfico"
+       ],
+       "vocab": "幽默",
+       "functions": [
+        "欣赏和使用幽默"
+       ],
+       "culture": "El Roto、Forges 等漫画家的讽刺漫画"
+      },
+      {
+       "id": "c2u2l4",
+       "title": "书面习语",
+       "subtitle": "Locuciones cultas",
+       "icon": "text.quote",
+       "grammar": [
+        "a bote pronto, a la sazón, de buenas a primeras, a trancas y barrancas, ni corto ni perezoso, a la postre"
+       ],
+       "vocab": "雅致的习语",
+       "functions": [
+        "使用书面雅语"
+       ]
+      },
+      {
+       "id": "c2u2l5",
+       "title": "当代新词",
+       "subtitle": "Español actual",
+       "icon": "sparkles",
+       "grammar": [
+        "anglicismos y neologismos: el finde, hacer match, crush, hacer un spoiler",
+        "recomendaciones de la Fundéu y la RAE"
+       ],
+       "vocab": "新词",
+       "functions": [
+        "跟上语言变化"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "c2u3",
+     "title": "方言与变体",
+     "subtitle": "Variación",
+     "lessons": [
+      {
+       "id": "c2u3l1",
+       "title": "安达卢西亚话",
+       "subtitle": "El andaluz",
+       "icon": "sun.max",
+       "grammar": [
+        "seseo y ceceo, aspiración de la s, caída de la d intervocálica",
+        "léxico: illo, quillo, miarma"
+       ],
+       "vocab": "南部口音",
+       "functions": [
+        "听懂安达卢西亚口音"
+       ]
+      },
+      {
+       "id": "c2u3l2",
+       "title": "马德里口语",
+       "subtitle": "Habla madrileña",
+       "icon": "building.2",
+       "grammar": [
+        "léxico castizo y juvenil: mazo, chulo, el foro",
+        "laísmo"
+       ],
+       "vocab": "马德里话",
+       "functions": [
+        "听懂马德里口语"
+       ]
+      },
+      {
+       "id": "c2u3l3",
+       "title": "双语区的西语",
+       "subtitle": "Zonas bilingües",
+       "icon": "globe.europe.africa",
+       "grammar": [
+        "rasgos del español en Cataluña, Galicia (diminutivo -iño, retranca) y el País Vasco"
+       ],
+       "vocab": "地区变体",
+       "functions": [
+        "识别双语区特点"
+       ]
+      },
+      {
+       "id": "c2u3l4",
+       "title": "加那利与美洲",
+       "subtitle": "Canarias y América",
+       "icon": "globe.americas",
+       "grammar": [
+        "ustedes sin vosotros, seseo, guagua, papa",
+        "comparación con el español de América"
+       ],
+       "vocab": "变体对比",
+       "functions": [
+        "理解跨地区差异"
+       ]
+      },
+      {
+       "id": "c2u3l5",
+       "title": "社会方言",
+       "subtitle": "Sociolectos",
+       "icon": "person.3",
+       "grammar": [
+        "lenguaje juvenil, argot, lenguaje de las redes"
+       ],
+       "vocab": "社会变体",
+       "functions": [
+        "识别说话人的社会背景"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "c2u4",
+     "title": "高级写作",
+     "subtitle": "Escritura experta",
+     "lessons": [
+      {
+       "id": "c2u4l1",
+       "title": "随笔与专栏",
+       "subtitle": "El ensayo",
+       "icon": "pencil",
+       "grammar": [
+        "argumentación compleja, registro culto, cohesión"
+       ],
+       "vocab": "随笔",
+       "functions": [
+        "写有个人风格的文章"
+       ]
+      },
+      {
+       "id": "c2u4l2",
+       "title": "叙事技巧",
+       "subtitle": "Narrativa",
+       "icon": "book",
+       "grammar": [
+        "estilo indirecto libre",
+        "alternancia de tiempos verbales en la narración"
+       ],
+       "vocab": "文学写作",
+       "functions": [
+        "写短篇叙事"
+       ]
+      },
+      {
+       "id": "c2u4l3",
+       "title": "正式投诉与信函",
+       "subtitle": "Cartas formales",
+       "icon": "envelope",
+       "grammar": [
+        "fórmulas protocolarias, reclamaciones formales, recursos administrativos"
+       ],
+       "vocab": "公文写作",
+       "functions": [
+        "写正式投诉"
+       ]
+      },
+      {
+       "id": "c2u4l4",
+       "title": "规范与文风",
+       "subtitle": "Corrección y estilo",
+       "icon": "checkmark.circle",
+       "grammar": [
+        "dequeísmo y queísmo, gerundio de posterioridad, concordancia, puntuación según la RAE"
+       ],
+       "vocab": "规范",
+       "functions": [
+        "写出无可挑剔的西语"
+       ]
+      },
+      {
+       "id": "c2u4l5",
+       "title": "汉译西技巧",
+       "subtitle": "Traducir del chino",
+       "icon": "character.book.closed",
+       "grammar": [
+        "estrategias de traducción chino → español: orden de la información, aspecto verbal, cuantificadores, equivalentes de chengyu"
+       ],
+       "vocab": "翻译",
+       "functions": [
+        "把中文地道地译成西语"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "c2u5",
+     "title": "像母语者一样",
+     "subtitle": "Como un nativo",
+     "lessons": [
+      {
+       "id": "c2u5l1",
+       "title": "即兴辩论",
+       "subtitle": "Debate improvisado",
+       "icon": "bubble.left.and.bubble.right",
+       "grammar": [
+        "improvisar, rebatir, ironizar, conceder estratégicamente"
+       ],
+       "vocab": "辩论",
+       "functions": [
+        "即兴应对辩论"
+       ]
+      },
+      {
+       "id": "c2u5l2",
+       "title": "全面理解",
+       "subtitle": "Comprensión total",
+       "icon": "ear",
+       "grammar": [
+        "comprender humor, dobles sentidos y referencias en tertulias, radio y pódcast"
+       ],
+       "vocab": "广播与播客",
+       "functions": [
+        "听懂一切"
+       ],
+       "culture": "西班牙电台 tertulias 节目"
+      },
+      {
+       "id": "c2u5l3",
+       "title": "你的专业领域",
+       "subtitle": "Tu campo profesional",
+       "icon": "briefcase",
+       "grammar": [
+        "léxico técnico del campo profesional del alumno (según su perfil)"
+       ],
+       "vocab": "专业术语",
+       "functions": [
+        "用西语处理专业工作"
+       ]
+      },
+      {
+       "id": "c2u5l4",
+       "title": "社交自如",
+       "subtitle": "Socializar como nativo",
+       "icon": "person.3",
+       "grammar": [
+        "small talk, chismes, consolar, felicitar, dar el pésame, bromear"
+       ],
+       "vocab": "社交",
+       "functions": [
+        "应对各种社交场合"
+       ]
+      },
+      {
+       "id": "c2u5l5",
+       "title": "C2 总复习",
+       "subtitle": "Repaso final",
+       "icon": "rosette",
+       "grammar": [
+        "repaso global de C2"
+       ],
+       "vocab": "综合",
+       "functions": [
+        "DELE C2 题型练习"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

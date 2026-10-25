@@ -1,0 +1,4899 @@
+{
+  "version": 2,
+  "units": [
+    {
+      "id": "u1",
+      "title": "发音与问候",
+      "subtitle": "Sonidos y saludos",
+      "color": "rojo",
+      "lessons": [
+        {
+          "id": "u1l1",
+          "title": "发音入门",
+          "subtitle": "Los sonidos",
+          "icon": "waveform",
+          "tips": [
+            {
+              "title": "五个纯元音",
+              "body": "a e i o u 每个元音都短促、清楚，发音时口型不滑动。e 不要读成英语的 ei，o 不要读成 ou。西班牙语基本上「怎么写就怎么读」，学会字母发音就能读出任何单词。"
+            },
+            {
+              "title": "西班牙本土口音的两个标志",
+              "body": "1. c（在 e、i 前）和 z 读 [θ]：舌尖轻放在上下齿之间送气，像英语 think 的 th。\n2. j 和 g（在 e、i 前）读 [x]：舌根抬起靠近软腭摩擦，比拼音 h 更靠后、更「刮」。"
+            },
+            {
+              "title": "其他要点",
+              "body": "• h 永远不发音：hola 读 [ˈola]\n• b 和 v 发音完全相同\n• ñ 读 [ɲ]，像拼音 ni 里 n 和 i 合成一个音\n• r 在词中单击舌尖一次；rr 和词首的 r 要多次颤动\n• ll 和 y 大多数人读作接近 y 的 [ʝ]"
+            },
+            {
+              "title": "重音规则",
+              "body": "• 以元音、n、s 结尾：重读倒数第二个音节（CA-sa, HA-blan）\n• 以其他辅音结尾：重读最后一个音节（pa-PEL, ha-BLAR）\n• 不符合规则的词会标重音符号：ja-MÓN, MÉ-di-co"
+            }
+          ],
+          "items": [
+            {
+              "id": "u1l1-01",
+              "es": "casa",
+              "zh": "房子",
+              "pron": "两个 a 都是纯 [a]，重读第一个音节：CA-sa"
+            },
+            {
+              "id": "u1l1-02",
+              "es": "mesa",
+              "zh": "桌子",
+              "pron": "e 是纯 [e]，不要滑向 ei：ME-sa"
+            },
+            {
+              "id": "u1l1-03",
+              "es": "libro",
+              "zh": "书",
+              "pron": "br 中的 r 轻弹一下；元音之间的 b 双唇不完全闭合：LI-bro"
+            },
+            {
+              "id": "u1l1-04",
+              "es": "uno",
+              "zh": "一",
+              "pron": "u 读 [u]，嘴唇收圆：U-no"
+            },
+            {
+              "id": "u1l1-05",
+              "es": "gracias",
+              "zh": "谢谢",
+              "pron": "西班牙本土读 GRA-θias，ci 里的 c 是咬舌的 [θ]"
+            },
+            {
+              "id": "u1l1-06",
+              "es": "zapato",
+              "zh": "鞋子",
+              "pron": "z 读 [θ]：θa-PA-to"
+            },
+            {
+              "id": "u1l1-07",
+              "es": "jamón",
+              "zh": "火腿",
+              "note": "以 n 结尾本应重读倒数第二音节，重音符号把重音移到了最后：ja-MÓN",
+              "pron": "j 读喉部摩擦音 [x]：xa-MÓN"
+            },
+            {
+              "id": "u1l1-08",
+              "es": "gente",
+              "zh": "人们",
+              "pron": "g 在 e 前读 [x]：XEN-te"
+            },
+            {
+              "id": "u1l1-09",
+              "es": "España",
+              "zh": "西班牙",
+              "pron": "ñ 读 [ɲ]：es-PA-ña"
+            },
+            {
+              "id": "u1l1-10",
+              "es": "perro",
+              "zh": "狗",
+              "note": "对比 pero（但是）：rr 和 r 区别意义",
+              "pron": "rr 舌尖连续颤动：PE-rro"
+            },
+            {
+              "id": "u1l1-11",
+              "es": "hola",
+              "zh": "你好",
+              "pron": "h 不发音：O-la"
+            },
+            {
+              "id": "u1l1-12",
+              "es": "vino",
+              "zh": "葡萄酒",
+              "pron": "v 和 b 同音，读 [ˈbino]"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "choice",
+              "question": "c 在哪些字母前读咬舌音 [θ]？",
+              "options": [
+                "e 和 i 前",
+                "a 和 o 前",
+                "u 前",
+                "任何字母前"
+              ],
+              "answer": 0,
+              "explain": "ce、ci 读 [θe]、[θi]；ca、co、cu 读 [k]。"
+            },
+            {
+              "type": "choice",
+              "question": "jamón 的重音在哪个音节？",
+              "options": [
+                "món",
+                "ja"
+              ],
+              "answer": 0,
+              "explain": "有重音符号的音节就是重读音节。"
+            },
+            {
+              "type": "choice",
+              "question": "perro 和 pero 有什么区别？",
+              "options": [
+                "perro 用颤音，意思是「狗」；pero 单击舌，意思是「但是」",
+                "两个词发音完全一样",
+                "pero 的 r 不发音"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "choice",
+              "question": "按重音规则，哪个词重读倒数第二个音节？",
+              "options": [
+                "casa",
+                "papel",
+                "hablar"
+              ],
+              "answer": 0,
+              "spanishOptions": true,
+              "explain": "casa 以元音结尾，重读倒数第二音节；papel、hablar 以辅音结尾，重读最后一个音节。"
+            },
+            {
+              "type": "choice",
+              "question": "在西班牙标准发音中，zapato 的 z 读作？",
+              "options": [
+                "[θ]，像英语 think 的 th",
+                "[s]",
+                "[ts]，像拼音 c"
+              ],
+              "answer": 0,
+              "explain": "拉美大多读 [s]，西班牙中北部读 [θ]。"
+            },
+            {
+              "type": "choice",
+              "question": "hola 中的 h 怎么读？",
+              "options": [
+                "不发音",
+                "像拼音 h",
+                "像英语 h"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": "u1l2",
+          "title": "你好！",
+          "subtitle": "¡Hola!",
+          "icon": "hand.wave",
+          "tips": [
+            {
+              "title": "一天中的问候",
+              "body": "• Buenos días：早上到午饭前。西班牙人午饭在 14–15 点，所以「上午」很长。\n• Buenas tardes：午饭后到天黑。\n• Buenas noches：晚上见面，也是「晚安」。"
+            },
+            {
+              "title": "倒着写的 ¡ 和 ¿",
+              "body": "西班牙语在感叹句和疑问句的开头也要写标点：¡Hola! ¿Qué tal? 读者一开始就知道这句话的语气。"
+            },
+            {
+              "title": "西班牙的口头禅：vale",
+              "body": "Vale 相当于「好的 / 行 / OK」，在西班牙随时能听到；拉美人很少这样说。"
+            }
+          ],
+          "items": [
+            {
+              "id": "u1l2-01",
+              "es": "¡Hola!",
+              "zh": "你好！",
+              "note": "最通用的问候，任何时间都能用",
+              "pron": "h 不发音：O-la"
+            },
+            {
+              "id": "u1l2-02",
+              "es": "Buenos días.",
+              "zh": "早上好 / 上午好。",
+              "note": "día 虽然以 a 结尾，却是阳性名词，所以用 buenos",
+              "pron": "BUE-nos DÍ-as，ue 连成一个音节"
+            },
+            {
+              "id": "u1l2-03",
+              "es": "Buenas tardes.",
+              "zh": "下午好。",
+              "note": "tarde 是阴性，所以用 buenas"
+            },
+            {
+              "id": "u1l2-04",
+              "es": "Buenas noches.",
+              "zh": "晚上好 / 晚安。",
+              "note": "见面和道别都能用",
+              "pron": "ch 读 [tʃ]，接近「吃」：NO-ches"
+            },
+            {
+              "id": "u1l2-05",
+              "es": "¿Qué tal?",
+              "zh": "你好吗？/ 怎么样？",
+              "note": "非正式的寒暄，相当于 How are you?",
+              "pron": "qu 读 [k]，u 不发音：ke TAL"
+            },
+            {
+              "id": "u1l2-06",
+              "es": "Bien, gracias.",
+              "zh": "很好，谢谢。",
+              "pron": "gracias 里的 ci 读 [θ]"
+            },
+            {
+              "id": "u1l2-07",
+              "es": "¿Y tú?",
+              "zh": "你呢？",
+              "note": "tú 带重音符号是「你」；不带的 tu 是「你的」",
+              "pron": "单独的 y 读 [i]"
+            },
+            {
+              "id": "u1l2-08",
+              "es": "Adiós.",
+              "zh": "再见。",
+              "pron": "重读最后一个音节：a-DIÓS"
+            },
+            {
+              "id": "u1l2-09",
+              "es": "Hasta luego.",
+              "zh": "回头见。",
+              "note": "最常用的道别语，即使当天不会再见也常这样说",
+              "pron": "h 不发音：AS-ta LUE-go"
+            },
+            {
+              "id": "u1l2-10",
+              "es": "Hasta mañana.",
+              "zh": "明天见。",
+              "pron": "ñ 读 [ɲ]：ma-ÑA-na"
+            },
+            {
+              "id": "u1l2-11",
+              "es": "Por favor.",
+              "zh": "请。"
+            },
+            {
+              "id": "u1l2-12",
+              "es": "De nada.",
+              "zh": "不客气。",
+              "pron": "元音之间的 d 很软，接近英语 this 的 th：DE NA-ða"
+            },
+            {
+              "id": "u1l2-13",
+              "es": "Vale.",
+              "zh": "好的 / OK。",
+              "note": "西班牙口语高频词"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "Buenas ___.",
+              "zh": "晚上好。",
+              "options": [
+                "noches",
+                "días",
+                "tarde"
+              ],
+              "answer": "noches",
+              "explain": "noches 是阴性复数，和 buenas 配合；días 要配 buenos。"
+            },
+            {
+              "type": "fill",
+              "sentence": "___ días.",
+              "zh": "早上好。",
+              "options": [
+                "Buenos",
+                "Buenas",
+                "Bueno"
+              ],
+              "answer": "Buenos",
+              "explain": "día 是阳性名词，复数 días 配 buenos。"
+            },
+            {
+              "type": "choice",
+              "question": "下午 3 点半在马德里遇到朋友，最自然的问候是？",
+              "options": [
+                "Buenas tardes.",
+                "Buenos días.",
+                "Buenas noches."
+              ],
+              "answer": 0,
+              "spanishOptions": true,
+              "explain": "午饭后就是 tarde 了。"
+            },
+            {
+              "type": "build",
+              "prompt": "很好，谢谢。你呢？",
+              "answer": [
+                "Bien",
+                "gracias",
+                "Y",
+                "tú"
+              ],
+              "distractors": [
+                "tu",
+                "Hola"
+              ],
+              "full": "Bien, gracias. ¿Y tú?"
+            },
+            {
+              "type": "build",
+              "prompt": "回头见！",
+              "answer": [
+                "Hasta",
+                "luego"
+              ],
+              "distractors": [
+                "mañana",
+                "Adiós"
+              ],
+              "full": "¡Hasta luego!"
+            },
+            {
+              "type": "type",
+              "prompt": "谢谢",
+              "answers": [
+                "gracias"
+              ],
+              "display": "Gracias."
+            },
+            {
+              "type": "type",
+              "prompt": "不客气",
+              "answers": [
+                "de nada"
+              ],
+              "display": "De nada."
+            }
+          ]
+        },
+        {
+          "id": "u1l3",
+          "title": "自我介绍",
+          "subtitle": "Me presento",
+          "icon": "person.text.rectangle",
+          "tips": [
+            {
+              "title": "问名字和回答",
+              "body": "¿Cómo te llamas?（你叫什么？）— Me llamo Ana.（我叫安娜。）\nllamarse 是自反动词：me llamo 字面意思是「我称呼我自己」。"
+            },
+            {
+              "title": "tú 和 usted",
+              "body": "tú 用于朋友、同龄人；usted（您）用于长辈、陌生人和正式场合。usted 虽然是「您」，动词却用第三人称：¿Cómo se llama usted?"
+            },
+            {
+              "title": "Encantado 还是 Encantada？",
+              "body": "形容词要和说话人自己的性别一致：男性说 encantado，女性说 encantada。Mucho gusto 不分性别。"
+            },
+            {
+              "title": "主语常被省略",
+              "body": "动词词尾已经说明了是谁，所以 (Yo) soy de China 里的 yo 通常省略，只在强调时才说出来。"
+            }
+          ],
+          "items": [
+            {
+              "id": "u1l3-01",
+              "es": "¿Cómo te llamas?",
+              "zh": "你叫什么名字？",
+              "note": "cómo 作疑问词时带重音符号",
+              "pron": "ll 读 [ʝ]，接近 y：KO-mo te ʝA-mas"
+            },
+            {
+              "id": "u1l3-02",
+              "es": "Me llamo Ana.",
+              "zh": "我叫安娜。",
+              "note": "也可以说 Mi nombre es Ana，但 Me llamo 更自然"
+            },
+            {
+              "id": "u1l3-03",
+              "es": "¿Cómo se llama usted?",
+              "zh": "您叫什么名字？",
+              "note": "正式场合；usted 用第三人称动词 llama"
+            },
+            {
+              "id": "u1l3-04",
+              "es": "Encantado.",
+              "zh": "很高兴认识你。（男性说）"
+            },
+            {
+              "id": "u1l3-05",
+              "es": "Encantada.",
+              "zh": "很高兴认识你。（女性说）",
+              "note": "注意别和 encontrada（被找到的）混淆"
+            },
+            {
+              "id": "u1l3-06",
+              "es": "Mucho gusto.",
+              "zh": "幸会。",
+              "note": "不分说话人性别",
+              "pron": "ch 读 [tʃ]：MU-cho GUS-to"
+            },
+            {
+              "id": "u1l3-07",
+              "es": "Igualmente.",
+              "zh": "我也是（彼此彼此）。",
+              "note": "回应 Encantado / Mucho gusto",
+              "pron": "i-gual-MEN-te"
+            },
+            {
+              "id": "u1l3-08",
+              "es": "¿De dónde eres?",
+              "zh": "你是哪里人？",
+              "note": "de 从 + dónde 哪里 + eres 你是",
+              "pron": "de DON-de E-res"
+            },
+            {
+              "id": "u1l3-09",
+              "es": "Soy de China.",
+              "zh": "我来自中国。",
+              "note": "soy = 我是（动词 ser），省略了 yo"
+            },
+            {
+              "id": "u1l3-10",
+              "es": "Vivo en Madrid.",
+              "zh": "我住在马德里。",
+              "note": "vivo = 我住（动词 vivir）",
+              "pron": "Madrid 的词尾 d 很轻：ma-DRI(ð)"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "choice",
+              "question": "一位女士和你初次见面，她应该说：",
+              "options": [
+                "Encantada.",
+                "Encantado."
+              ],
+              "answer": 0,
+              "spanishOptions": true,
+              "explain": "形容词跟说话人自己的性别一致。"
+            },
+            {
+              "type": "fill",
+              "sentence": "Me ___ Carlos.",
+              "zh": "我叫卡洛斯。",
+              "options": [
+                "llamo",
+                "llamas",
+                "llama"
+              ],
+              "answer": "llamo",
+              "explain": "me 配 llamo（我），te 配 llamas（你）。"
+            },
+            {
+              "type": "fill",
+              "sentence": "¿De dónde ___?",
+              "zh": "你是哪里人？",
+              "options": [
+                "eres",
+                "soy",
+                "es"
+              ],
+              "answer": "eres",
+              "explain": "ser 的「你」形式是 eres。"
+            },
+            {
+              "type": "build",
+              "prompt": "你叫什么名字？",
+              "answer": [
+                "Cómo",
+                "te",
+                "llamas"
+              ],
+              "distractors": [
+                "me",
+                "llamo"
+              ],
+              "full": "¿Cómo te llamas?"
+            },
+            {
+              "type": "build",
+              "prompt": "我来自中国。",
+              "answer": [
+                "Soy",
+                "de",
+                "China"
+              ],
+              "distractors": [
+                "Eres",
+                "en"
+              ],
+              "full": "Soy de China."
+            },
+            {
+              "type": "type",
+              "prompt": "幸会。",
+              "answers": [
+                "mucho gusto"
+              ],
+              "display": "Mucho gusto."
+            },
+            {
+              "type": "type",
+              "prompt": "我叫安娜。",
+              "answers": [
+                "me llamo ana"
+              ],
+              "display": "Me llamo Ana.",
+              "hint": "用 llamarse"
+            }
+          ]
+        },
+        {
+          "id": "u1l4",
+          "title": "数字 0–10",
+          "subtitle": "Los números",
+          "icon": "number",
+          "tips": [
+            {
+              "title": "0 到 10",
+              "body": "cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez"
+            },
+            {
+              "title": "咬舌音又来了",
+              "body": "cero、cinco、diez 里的 c 和 z 都读 [θ]。diez 词尾的 z 也要咬舌。"
+            },
+            {
+              "title": "uno 的变化",
+              "body": "uno 在阳性名词前变成 un：un libro；在阴性名词前用 una：una mesa。"
+            },
+            {
+              "title": "问年龄用「有」",
+              "body": "西语说「我有……年」：¿Cuántos años tienes? — Tengo veinte años. 不能用 ser。"
+            }
+          ],
+          "items": [
+            {
+              "id": "u1l4-01",
+              "es": "cero",
+              "zh": "零 (0)",
+              "pron": "θE-ro"
+            },
+            {
+              "id": "u1l4-02",
+              "es": "uno",
+              "zh": "一 (1)",
+              "pron": "U-no"
+            },
+            {
+              "id": "u1l4-03",
+              "es": "dos",
+              "zh": "二 (2)"
+            },
+            {
+              "id": "u1l4-04",
+              "es": "tres",
+              "zh": "三 (3)",
+              "pron": "tr 中的 r 轻弹一下"
+            },
+            {
+              "id": "u1l4-05",
+              "es": "cuatro",
+              "zh": "四 (4)",
+              "pron": "CUA-tro"
+            },
+            {
+              "id": "u1l4-06",
+              "es": "cinco",
+              "zh": "五 (5)",
+              "pron": "θIN-co"
+            },
+            {
+              "id": "u1l4-07",
+              "es": "seis",
+              "zh": "六 (6)",
+              "pron": "ei 是一个音节：SEIS"
+            },
+            {
+              "id": "u1l4-08",
+              "es": "siete",
+              "zh": "七 (7)",
+              "pron": "SIE-te"
+            },
+            {
+              "id": "u1l4-09",
+              "es": "ocho",
+              "zh": "八 (8)",
+              "pron": "O-cho"
+            },
+            {
+              "id": "u1l4-10",
+              "es": "nueve",
+              "zh": "九 (9)",
+              "pron": "NUE-be"
+            },
+            {
+              "id": "u1l4-11",
+              "es": "diez",
+              "zh": "十 (10)",
+              "pron": "DIEθ，词尾 z 也咬舌"
+            },
+            {
+              "id": "u1l4-12",
+              "es": "¿Cuántos años tienes?",
+              "zh": "你多大了？",
+              "note": "字面意思：你有多少年？",
+              "pron": "CUÁN-tos A-ños TIE-nes"
+            },
+            {
+              "id": "u1l4-13",
+              "es": "Tengo veinte años.",
+              "zh": "我二十岁。",
+              "note": "veinte = 20，下一单元会系统学习"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "Tengo ___ años.",
+              "zh": "我十岁。",
+              "options": [
+                "diez",
+                "dos",
+                "doce"
+              ],
+              "answer": "diez"
+            },
+            {
+              "type": "choice",
+              "question": "问年龄时西班牙语用哪个动词？",
+              "options": [
+                "tener（有）",
+                "ser（是）",
+                "estar（在）"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "choice",
+              "question": "¿Cuánto es dos más tres?",
+              "sub": "二加三等于几？",
+              "options": [
+                "cinco",
+                "cuatro",
+                "seis"
+              ],
+              "answer": 0,
+              "spanishOptions": true
+            },
+            {
+              "type": "build",
+              "prompt": "你多大了？",
+              "answer": [
+                "Cuántos",
+                "años",
+                "tienes"
+              ],
+              "distractors": [
+                "tengo",
+                "eres"
+              ],
+              "full": "¿Cuántos años tienes?"
+            },
+            {
+              "type": "type",
+              "prompt": "五",
+              "answers": [
+                "cinco"
+              ],
+              "display": "cinco"
+            },
+            {
+              "type": "type",
+              "prompt": "八",
+              "answers": [
+                "ocho"
+              ],
+              "display": "ocho"
+            },
+            {
+              "type": "type",
+              "prompt": "三",
+              "answers": [
+                "tres"
+              ],
+              "display": "tres"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "title": "我是谁",
+      "subtitle": "Yo y los demás",
+      "color": "azul",
+      "lessons": [
+        {
+          "id": "u2l1",
+          "title": "动词 ser 与人称",
+          "subtitle": "Ser y los pronombres",
+          "icon": "person.2",
+          "tips": [
+            {
+              "title": "人称代词",
+              "body": "yo 我 · tú 你 · él 他 · ella 她 · usted 您\nnosotros / nosotras 我们 · vosotros / vosotras 你们\nellos / ellas 他们 / 她们 · ustedes 诸位、您们"
+            },
+            {
+              "title": "西班牙特色：vosotros",
+              "body": "在西班牙，对朋友说「你们」用 vosotros，动词是 sois；ustedes 留给正式场合。拉美则一律用 ustedes。这是西班牙西语最明显的语法特征。"
+            },
+            {
+              "title": "ser 的变位（不规则）",
+              "body": "soy · eres · es · somos · sois · son\nser 表示身份、国籍、职业、性格等本质特征。"
+            },
+            {
+              "title": "阴性复数只用于全女性",
+              "body": "nosotras、vosotras、ellas 只指全是女性的群体。只要有一个男性，就用阳性形式。"
+            }
+          ],
+          "items": [
+            {
+              "id": "u2l1-01",
+              "es": "yo soy",
+              "zh": "我是"
+            },
+            {
+              "id": "u2l1-02",
+              "es": "tú eres",
+              "zh": "你是",
+              "pron": "E-res，r 单击"
+            },
+            {
+              "id": "u2l1-03",
+              "es": "él es / ella es",
+              "zh": "他是 / 她是",
+              "tts": "él es, ella es"
+            },
+            {
+              "id": "u2l1-04",
+              "es": "usted es",
+              "zh": "您是",
+              "note": "usted 虽然是「您」，动词用第三人称"
+            },
+            {
+              "id": "u2l1-05",
+              "es": "nosotros somos",
+              "zh": "我们是",
+              "note": "全是女性时用 nosotras"
+            },
+            {
+              "id": "u2l1-06",
+              "es": "vosotros sois",
+              "zh": "你们是",
+              "note": "西班牙本土特有，口语高频",
+              "pron": "sois 是一个音节"
+            },
+            {
+              "id": "u2l1-07",
+              "es": "ellos son",
+              "zh": "他们是",
+              "note": "全是女性时用 ellas"
+            },
+            {
+              "id": "u2l1-08",
+              "es": "ustedes son",
+              "zh": "诸位是 / 您们是",
+              "note": "在西班牙用于正式场合"
+            },
+            {
+              "id": "u2l1-09",
+              "es": "Somos amigos.",
+              "zh": "我们是朋友。"
+            },
+            {
+              "id": "u2l1-10",
+              "es": "¿Sois estudiantes?",
+              "zh": "你们是学生吗？",
+              "note": "一般疑问句只需提高句尾语调，语序不变"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "Nosotros ___ de China.",
+              "zh": "我们来自中国。",
+              "options": [
+                "somos",
+                "sois",
+                "son"
+              ],
+              "answer": "somos"
+            },
+            {
+              "type": "fill",
+              "sentence": "Vosotras ___ muy simpáticas.",
+              "zh": "你们（女生们）很友善。",
+              "options": [
+                "sois",
+                "son",
+                "somos"
+              ],
+              "answer": "sois",
+              "explain": "vosotros / vosotras 都配 sois。"
+            },
+            {
+              "type": "fill",
+              "sentence": "Usted ___ el profesor.",
+              "zh": "您是老师。",
+              "options": [
+                "es",
+                "eres",
+                "sois"
+              ],
+              "answer": "es",
+              "explain": "usted 用第三人称形式 es。"
+            },
+            {
+              "type": "choice",
+              "question": "在马德里，你对两个朋友说「你们是……」，用哪个代词？",
+              "options": [
+                "vosotros",
+                "ustedes",
+                "ellos"
+              ],
+              "answer": 0,
+              "spanishOptions": true
+            },
+            {
+              "type": "choice",
+              "question": "5 个女生和 1 个男生在一起，「他们」应该用：",
+              "options": [
+                "ellos",
+                "ellas"
+              ],
+              "answer": 0,
+              "spanishOptions": true,
+              "explain": "混合群体一律用阳性。"
+            },
+            {
+              "type": "build",
+              "prompt": "我们是朋友。",
+              "answer": [
+                "Somos",
+                "amigos"
+              ],
+              "distractors": [
+                "Sois",
+                "amigo"
+              ],
+              "full": "Somos amigos."
+            },
+            {
+              "type": "build",
+              "prompt": "你们是学生吗？",
+              "answer": [
+                "Sois",
+                "estudiantes"
+              ],
+              "distractors": [
+                "Son",
+                "estudiante"
+              ],
+              "full": "¿Sois estudiantes?"
+            },
+            {
+              "type": "type",
+              "prompt": "你是",
+              "answers": [
+                "tú eres",
+                "eres"
+              ],
+              "display": "tú eres",
+              "hint": "带不带代词都可以"
+            }
+          ]
+        },
+        {
+          "id": "u2l2",
+          "title": "国籍与阴阳性",
+          "subtitle": "Nacionalidades",
+          "icon": "globe.europe.africa",
+          "tips": [
+            {
+              "title": "国籍形容词的阴性",
+              "body": "• -o 结尾 → 改 -a：chino → china\n• 辅音结尾 → 加 -a：español → española\n• 带重音符号的会去掉：inglés → inglesa\n• -e 结尾 → 不变：estadounidense"
+            },
+            {
+              "title": "国籍要小写",
+              "body": "国籍形容词首字母小写：Soy chino。国家名才大写：China, España。"
+            },
+            {
+              "title": "复数",
+              "body": "元音结尾加 -s：chinos；辅音结尾加 -es：españoles, franceses。"
+            }
+          ],
+          "items": [
+            {
+              "id": "u2l2-01",
+              "es": "chino / china",
+              "zh": "中国人（男 / 女）",
+              "tts": "chino, china",
+              "pron": "ch 读 [tʃ]"
+            },
+            {
+              "id": "u2l2-02",
+              "es": "español / española",
+              "zh": "西班牙人（男 / 女）",
+              "tts": "español, española",
+              "pron": "es-pa-ÑOL / es-pa-ÑO-la"
+            },
+            {
+              "id": "u2l2-03",
+              "es": "inglés / inglesa",
+              "zh": "英国人（男 / 女）",
+              "tts": "inglés, inglesa",
+              "note": "阴性形式去掉重音符号"
+            },
+            {
+              "id": "u2l2-04",
+              "es": "francés / francesa",
+              "zh": "法国人（男 / 女）",
+              "tts": "francés, francesa",
+              "pron": "ce 读 [θe]：fran-θE-sa"
+            },
+            {
+              "id": "u2l2-05",
+              "es": "alemán / alemana",
+              "zh": "德国人（男 / 女）",
+              "tts": "alemán, alemana"
+            },
+            {
+              "id": "u2l2-06",
+              "es": "italiano / italiana",
+              "zh": "意大利人（男 / 女）",
+              "tts": "italiano, italiana"
+            },
+            {
+              "id": "u2l2-07",
+              "es": "mexicano / mexicana",
+              "zh": "墨西哥人（男 / 女）",
+              "tts": "mexicano, mexicana",
+              "pron": "这里的 x 读 [x]，和 j 一样"
+            },
+            {
+              "id": "u2l2-08",
+              "es": "estadounidense",
+              "zh": "美国人（男女同形）",
+              "pron": "es-ta-dou-ni-DEN-se"
+            },
+            {
+              "id": "u2l2-09",
+              "es": "Soy china.",
+              "zh": "我是中国人。（女性说）"
+            },
+            {
+              "id": "u2l2-10",
+              "es": "Él es español.",
+              "zh": "他是西班牙人。"
+            },
+            {
+              "id": "u2l2-11",
+              "es": "Ellas son francesas.",
+              "zh": "她们是法国人。"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "María es ___.",
+              "zh": "玛丽亚是西班牙人。",
+              "options": [
+                "española",
+                "español",
+                "españolo"
+              ],
+              "answer": "española"
+            },
+            {
+              "type": "fill",
+              "sentence": "Pierre y Luc son ___.",
+              "zh": "皮埃尔和吕克是法国人。",
+              "options": [
+                "franceses",
+                "francesas",
+                "francés"
+              ],
+              "answer": "franceses",
+              "explain": "两个男性 → 阳性复数；francés 加 -es，重音符号去掉。"
+            },
+            {
+              "type": "choice",
+              "question": "哪个写法是正确的？",
+              "options": [
+                "Soy chino.",
+                "Soy Chino.",
+                "soy chino."
+              ],
+              "answer": 0,
+              "spanishOptions": true,
+              "explain": "句首大写，国籍小写。"
+            },
+            {
+              "type": "choice",
+              "question": "inglés 的阴性形式是？",
+              "options": [
+                "inglesa",
+                "inglésa",
+                "inglesia"
+              ],
+              "answer": 0,
+              "spanishOptions": true,
+              "explain": "加 -a 后重读倒数第二音节，符合规则，不再需要重音符号。"
+            },
+            {
+              "type": "build",
+              "prompt": "她是德国人。",
+              "answer": [
+                "Ella",
+                "es",
+                "alemana"
+              ],
+              "distractors": [
+                "alemán",
+                "eres"
+              ],
+              "full": "Ella es alemana."
+            },
+            {
+              "type": "build",
+              "prompt": "我们是西班牙人。",
+              "answer": [
+                "Somos",
+                "españoles"
+              ],
+              "distractors": [
+                "español",
+                "son"
+              ],
+              "full": "Somos españoles."
+            },
+            {
+              "type": "type",
+              "prompt": "他是中国人。",
+              "answers": [
+                "él es chino",
+                "es chino"
+              ],
+              "display": "Él es chino."
+            }
+          ]
+        },
+        {
+          "id": "u2l3",
+          "title": "职业",
+          "subtitle": "Profesiones",
+          "icon": "briefcase",
+          "tips": [
+            {
+              "title": "说职业不加冠词",
+              "body": "Soy ingeniero.（不说 Soy un ingeniero。）只有加了形容词时才用冠词：Soy un ingeniero muy bueno."
+            },
+            {
+              "title": "职业名词的阴阳性",
+              "body": "• -o → -a：médico / médica\n• -or → -ora：profesor / profesora\n• -ista、-nte 结尾通常不变：periodista, estudiante"
+            },
+            {
+              "title": "问职业",
+              "body": "¿A qué te dedicas?（你是做什么的？）最常用；也可以说 ¿En qué trabajas?"
+            }
+          ],
+          "items": [
+            {
+              "id": "u2l3-01",
+              "es": "¿A qué te dedicas?",
+              "zh": "你是做什么工作的？",
+              "note": "dedicarse 自反动词，字面是「你致力于什么」",
+              "pron": "a KE te de-DI-cas"
+            },
+            {
+              "id": "u2l3-02",
+              "es": "ingeniero / ingeniera",
+              "zh": "工程师（男 / 女）",
+              "tts": "ingeniero, ingeniera",
+              "pron": "g 在 e 前读 [x]：in-xe-NIE-ro"
+            },
+            {
+              "id": "u2l3-03",
+              "es": "profesor / profesora",
+              "zh": "老师（男 / 女）",
+              "tts": "profesor, profesora"
+            },
+            {
+              "id": "u2l3-04",
+              "es": "médico / médica",
+              "zh": "医生（男 / 女）",
+              "tts": "médico, médica",
+              "pron": "MÉ-di-co"
+            },
+            {
+              "id": "u2l3-05",
+              "es": "estudiante",
+              "zh": "学生（男女同形）"
+            },
+            {
+              "id": "u2l3-06",
+              "es": "camarero / camarera",
+              "zh": "服务员（男 / 女）",
+              "tts": "camarero, camarera",
+              "note": "西班牙说 camarero，拉美多说 mesero"
+            },
+            {
+              "id": "u2l3-07",
+              "es": "abogado / abogada",
+              "zh": "律师（男 / 女）",
+              "tts": "abogado, abogada"
+            },
+            {
+              "id": "u2l3-08",
+              "es": "periodista",
+              "zh": "记者（男女同形）"
+            },
+            {
+              "id": "u2l3-09",
+              "es": "Soy ingeniero.",
+              "zh": "我是工程师。"
+            },
+            {
+              "id": "u2l3-10",
+              "es": "Trabajo en una empresa.",
+              "zh": "我在一家公司工作。",
+              "note": "trabajo = 我工作（trabajar）"
+            },
+            {
+              "id": "u2l3-11",
+              "es": "Trabajo en una fábrica.",
+              "zh": "我在一家工厂工作。",
+              "pron": "FÁ-bri-ca，重读第一个音节"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "choice",
+              "question": "哪一句是正确的？",
+              "options": [
+                "Soy ingeniero.",
+                "Soy un ingeniero.",
+                "Soy la ingeniera."
+              ],
+              "answer": 0,
+              "spanishOptions": true,
+              "explain": "说职业时不加冠词。"
+            },
+            {
+              "type": "fill",
+              "sentence": "Ana es ___.",
+              "zh": "安娜是老师。",
+              "options": [
+                "profesora",
+                "profesor",
+                "profesoro"
+              ],
+              "answer": "profesora"
+            },
+            {
+              "type": "fill",
+              "sentence": "Juan es ___.",
+              "zh": "胡安是记者。",
+              "options": [
+                "periodista",
+                "periodisto",
+                "periodistas"
+              ],
+              "answer": "periodista",
+              "explain": "-ista 结尾男女同形。"
+            },
+            {
+              "type": "build",
+              "prompt": "你是做什么工作的？",
+              "answer": [
+                "A",
+                "qué",
+                "te",
+                "dedicas"
+              ],
+              "distractors": [
+                "me",
+                "que"
+              ],
+              "full": "¿A qué te dedicas?"
+            },
+            {
+              "type": "build",
+              "prompt": "我在一家工厂工作。",
+              "answer": [
+                "Trabajo",
+                "en",
+                "una",
+                "fábrica"
+              ],
+              "distractors": [
+                "un",
+                "Trabajas"
+              ],
+              "full": "Trabajo en una fábrica."
+            },
+            {
+              "type": "type",
+              "prompt": "我是学生。",
+              "answers": [
+                "soy estudiante",
+                "yo soy estudiante"
+              ],
+              "display": "Soy estudiante."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "title": "日常生活",
+      "subtitle": "La vida diaria",
+      "color": "verde",
+      "lessons": [
+        {
+          "id": "u3l1",
+          "title": "名词与冠词",
+          "subtitle": "Los artículos",
+          "icon": "textformat",
+          "tips": [
+            {
+              "title": "定冠词与不定冠词",
+              "body": "定冠词（the）：el 阳单 · la 阴单 · los 阳复 · las 阴复\n不定冠词（a / some）：un · una · unos · unas"
+            },
+            {
+              "title": "怎么判断阴阳性",
+              "body": "• -o 结尾多为阳性：el libro\n• -a 结尾多为阴性：la casa\n• -ción、-dad 结尾一定是阴性：la estación, la ciudad"
+            },
+            {
+              "title": "常见例外",
+              "body": "el día（天）· el mapa（地图）· el problema（问题）· la mano（手）\n最稳妥的方法：记单词时连冠词一起记。"
+            },
+            {
+              "title": "必须缩合",
+              "body": "a + el = al：Voy al cine.\nde + el = del：Soy del norte."
+            }
+          ],
+          "items": [
+            {
+              "id": "u3l1-01",
+              "es": "el libro",
+              "zh": "（这本）书"
+            },
+            {
+              "id": "u3l1-02",
+              "es": "la mesa",
+              "zh": "（这张）桌子"
+            },
+            {
+              "id": "u3l1-03",
+              "es": "los libros",
+              "zh": "（这些）书"
+            },
+            {
+              "id": "u3l1-04",
+              "es": "las casas",
+              "zh": "（这些）房子"
+            },
+            {
+              "id": "u3l1-05",
+              "es": "un coche",
+              "zh": "一辆车",
+              "note": "西班牙说 coche，拉美多说 carro 或 auto"
+            },
+            {
+              "id": "u3l1-06",
+              "es": "una ciudad",
+              "zh": "一座城市",
+              "note": "-dad 结尾为阴性",
+              "pron": "θiu-DAD，词尾 d 很轻"
+            },
+            {
+              "id": "u3l1-07",
+              "es": "el día",
+              "zh": "（这一）天",
+              "note": "例外：以 -a 结尾却是阳性"
+            },
+            {
+              "id": "u3l1-08",
+              "es": "el problema",
+              "zh": "（这个）问题",
+              "note": "例外：希腊语来源的 -ma 词多为阳性"
+            },
+            {
+              "id": "u3l1-09",
+              "es": "la mano",
+              "zh": "（这只）手",
+              "note": "例外：以 -o 结尾却是阴性"
+            },
+            {
+              "id": "u3l1-10",
+              "es": "la estación",
+              "zh": "车站",
+              "note": "-ción 结尾都是阴性",
+              "pron": "es-ta-θIÓN"
+            },
+            {
+              "id": "u3l1-11",
+              "es": "el móvil",
+              "zh": "手机",
+              "note": "西班牙说 móvil，拉美说 celular"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "___ problema es difícil.",
+              "zh": "这个问题很难。",
+              "options": [
+                "El",
+                "La",
+                "Los"
+              ],
+              "answer": "El",
+              "explain": "problema 是阳性的例外词。"
+            },
+            {
+              "type": "fill",
+              "sentence": "___ mano",
+              "zh": "（这只）手",
+              "options": [
+                "la",
+                "el",
+                "las"
+              ],
+              "answer": "la"
+            },
+            {
+              "type": "fill",
+              "sentence": "Voy ___ cine.",
+              "zh": "我去电影院。",
+              "options": [
+                "al",
+                "a el",
+                "del"
+              ],
+              "answer": "al",
+              "explain": "a + el 必须缩合为 al。"
+            },
+            {
+              "type": "choice",
+              "question": "ciudad 是什么性？",
+              "options": [
+                "阴性：la ciudad",
+                "阳性：el ciudad"
+              ],
+              "answer": 0,
+              "explain": "-dad 结尾的名词都是阴性。"
+            },
+            {
+              "type": "choice",
+              "question": "los libros 中的 los 是？",
+              "options": [
+                "阳性复数定冠词",
+                "阴性复数定冠词",
+                "不定冠词"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "build",
+              "prompt": "一座城市和一辆车",
+              "answer": [
+                "una",
+                "ciudad",
+                "y",
+                "un",
+                "coche"
+              ],
+              "distractors": [
+                "el",
+                "la"
+              ],
+              "full": "una ciudad y un coche"
+            },
+            {
+              "type": "type",
+              "prompt": "（这些）房子",
+              "answers": [
+                "las casas"
+              ],
+              "display": "las casas"
+            }
+          ]
+        },
+        {
+          "id": "u3l2",
+          "title": "家庭",
+          "subtitle": "La familia",
+          "icon": "person.3",
+          "tips": [
+            {
+              "title": "tener（有）的变位",
+              "body": "tengo · tienes · tiene · tenemos · tenéis · tienen\n注意 yo 形式是 tengo，中间几个人称 e 变成 ie。"
+            },
+            {
+              "title": "物主形容词",
+              "body": "mi 我的 · tu 你的 · su 他 / 她 / 您的\n名词是复数时加 -s：mis hermanos, tus padres\nnuestro/a 我们的 · vuestro/a 你们的（西班牙特有）"
+            },
+            {
+              "title": "阳性复数可以包括女性",
+              "body": "padres = 父母；hermanos = 兄弟姐妹；hijos = 子女。"
+            }
+          ],
+          "items": [
+            {
+              "id": "u3l2-01",
+              "es": "la familia",
+              "zh": "家庭"
+            },
+            {
+              "id": "u3l2-02",
+              "es": "el padre / la madre",
+              "zh": "父亲 / 母亲",
+              "tts": "el padre, la madre"
+            },
+            {
+              "id": "u3l2-03",
+              "es": "los padres",
+              "zh": "父母"
+            },
+            {
+              "id": "u3l2-04",
+              "es": "el hermano / la hermana",
+              "zh": "兄弟 / 姐妹",
+              "tts": "el hermano, la hermana",
+              "pron": "h 不发音：er-MA-no"
+            },
+            {
+              "id": "u3l2-05",
+              "es": "el hijo / la hija",
+              "zh": "儿子 / 女儿",
+              "tts": "el hijo, la hija",
+              "pron": "h 不发音，j 读 [x]：I-xo"
+            },
+            {
+              "id": "u3l2-06",
+              "es": "el abuelo / la abuela",
+              "zh": "祖父 / 祖母",
+              "tts": "el abuelo, la abuela"
+            },
+            {
+              "id": "u3l2-07",
+              "es": "el novio / la novia",
+              "zh": "男朋友 / 女朋友",
+              "tts": "el novio, la novia",
+              "note": "在婚礼上也指新郎 / 新娘"
+            },
+            {
+              "id": "u3l2-08",
+              "es": "Tengo un hermano.",
+              "zh": "我有一个兄弟。",
+              "note": "西语不区分哥哥弟弟；需要时说 hermano mayor（哥哥）/ menor（弟弟）"
+            },
+            {
+              "id": "u3l2-09",
+              "es": "¿Tienes hermanos?",
+              "zh": "你有兄弟姐妹吗？"
+            },
+            {
+              "id": "u3l2-10",
+              "es": "Mi madre es médica.",
+              "zh": "我妈妈是医生。"
+            },
+            {
+              "id": "u3l2-11",
+              "es": "Mis padres viven en China.",
+              "zh": "我父母住在中国。",
+              "note": "viven = 他们住（vivir）"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "___ hermanos son altos.",
+              "zh": "我的兄弟们个子很高。",
+              "options": [
+                "Mis",
+                "Mi",
+                "Tu"
+              ],
+              "answer": "Mis",
+              "explain": "hermanos 是复数，所以用 mis。"
+            },
+            {
+              "type": "fill",
+              "sentence": "¿Cuántos hermanos ___?",
+              "zh": "你有几个兄弟姐妹？",
+              "options": [
+                "tienes",
+                "tengo",
+                "tiene"
+              ],
+              "answer": "tienes"
+            },
+            {
+              "type": "fill",
+              "sentence": "Nosotros ___ dos hijos.",
+              "zh": "我们有两个孩子。",
+              "options": [
+                "tenemos",
+                "tenéis",
+                "tienen"
+              ],
+              "answer": "tenemos"
+            },
+            {
+              "type": "choice",
+              "question": "hermano mayor 是什么意思？",
+              "options": [
+                "哥哥",
+                "弟弟",
+                "表哥"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "build",
+              "prompt": "我有一个女朋友。",
+              "answer": [
+                "Tengo",
+                "una",
+                "novia"
+              ],
+              "distractors": [
+                "un",
+                "Tienes"
+              ],
+              "full": "Tengo una novia."
+            },
+            {
+              "type": "build",
+              "prompt": "你有兄弟姐妹吗？",
+              "answer": [
+                "Tienes",
+                "hermanos"
+              ],
+              "distractors": [
+                "Tengo",
+                "hermana"
+              ],
+              "full": "¿Tienes hermanos?"
+            },
+            {
+              "type": "type",
+              "prompt": "我的父母",
+              "answers": [
+                "mis padres"
+              ],
+              "display": "mis padres"
+            }
+          ]
+        },
+        {
+          "id": "u3l3",
+          "title": "数字 11–100",
+          "subtitle": "Hasta cien",
+          "icon": "number.circle",
+          "tips": [
+            {
+              "title": "11–15 要单独记",
+              "body": "once · doce · trece · catorce · quince"
+            },
+            {
+              "title": "16–29 连写",
+              "body": "dieciséis, diecisiete, dieciocho, diecinueve\nveinte, veintiuno, veintidós, veintitrés …\n注意 dieciséis、veintidós、veintitrés 有重音符号。"
+            },
+            {
+              "title": "30 以后用 y 连接",
+              "body": "treinta y uno, cuarenta y cinco …\n整十：treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa；100 = cien。"
+            }
+          ],
+          "items": [
+            {
+              "id": "u3l3-01",
+              "es": "once",
+              "zh": "十一 (11)",
+              "pron": "ON-θe"
+            },
+            {
+              "id": "u3l3-02",
+              "es": "doce",
+              "zh": "十二 (12)",
+              "pron": "DO-θe"
+            },
+            {
+              "id": "u3l3-03",
+              "es": "quince",
+              "zh": "十五 (15)",
+              "pron": "KIN-θe"
+            },
+            {
+              "id": "u3l3-04",
+              "es": "dieciséis",
+              "zh": "十六 (16)",
+              "pron": "die-θi-SÉIS"
+            },
+            {
+              "id": "u3l3-05",
+              "es": "veinte",
+              "zh": "二十 (20)",
+              "pron": "BEIN-te"
+            },
+            {
+              "id": "u3l3-06",
+              "es": "veintiuno",
+              "zh": "二十一 (21)"
+            },
+            {
+              "id": "u3l3-07",
+              "es": "treinta",
+              "zh": "三十 (30)"
+            },
+            {
+              "id": "u3l3-08",
+              "es": "treinta y cinco",
+              "zh": "三十五 (35)"
+            },
+            {
+              "id": "u3l3-09",
+              "es": "cuarenta",
+              "zh": "四十 (40)"
+            },
+            {
+              "id": "u3l3-10",
+              "es": "cincuenta",
+              "zh": "五十 (50)",
+              "pron": "θin-CUEN-ta"
+            },
+            {
+              "id": "u3l3-11",
+              "es": "cien",
+              "zh": "一百 (100)",
+              "pron": "θIEN"
+            },
+            {
+              "id": "u3l3-12",
+              "es": "¿Cuánto cuesta?",
+              "zh": "多少钱？",
+              "note": "问单件商品的价格"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "choice",
+              "question": "47 用西班牙语怎么说？",
+              "options": [
+                "cuarenta y siete",
+                "cuatro y siete",
+                "cuarentisiete"
+              ],
+              "answer": 0,
+              "spanishOptions": true
+            },
+            {
+              "type": "choice",
+              "question": "veintidós 是多少？",
+              "options": [
+                "22",
+                "12",
+                "20"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "fill",
+              "sentence": "Tengo ___ años.",
+              "zh": "我三十岁。",
+              "options": [
+                "treinta",
+                "trece",
+                "tres"
+              ],
+              "answer": "treinta"
+            },
+            {
+              "type": "choice",
+              "question": "¿Cuánto es diez más seis?",
+              "sub": "十加六等于几？",
+              "options": [
+                "dieciséis",
+                "diez y seis",
+                "sesenta"
+              ],
+              "answer": 0,
+              "spanishOptions": true,
+              "explain": "16 要连写成一个词。"
+            },
+            {
+              "type": "type",
+              "prompt": "十五",
+              "answers": [
+                "quince"
+              ],
+              "display": "quince"
+            },
+            {
+              "type": "type",
+              "prompt": "二十",
+              "answers": [
+                "veinte"
+              ],
+              "display": "veinte"
+            },
+            {
+              "type": "type",
+              "prompt": "一百",
+              "answers": [
+                "cien"
+              ],
+              "display": "cien"
+            }
+          ]
+        },
+        {
+          "id": "u3l4",
+          "title": "-ar 规则动词",
+          "subtitle": "Verbos en -ar",
+          "icon": "arrow.triangle.branch",
+          "tips": [
+            {
+              "title": "三类动词",
+              "body": "西班牙语动词原形以 -ar、-er、-ir 结尾，其中 -ar 动词最多。"
+            },
+            {
+              "title": "-ar 动词变位",
+              "body": "去掉 -ar，按人称加词尾：\n-o · -as · -a · -amos · -áis · -an\nhablar → hablo, hablas, habla, hablamos, habláis, hablan"
+            },
+            {
+              "title": "否定",
+              "body": "在动词前加 no 就行：No hablo francés."
+            },
+            {
+              "title": "y 变 e",
+              "body": "「和」后面的词以 i- 或 hi- 开头时，y 要变成 e：chino e inglés。"
+            }
+          ],
+          "items": [
+            {
+              "id": "u3l4-01",
+              "es": "hablar",
+              "zh": "说（语言）"
+            },
+            {
+              "id": "u3l4-02",
+              "es": "Hablo chino e inglés.",
+              "zh": "我说中文和英语。",
+              "note": "inglés 以 i 开头，y 变成 e"
+            },
+            {
+              "id": "u3l4-03",
+              "es": "¿Hablas español?",
+              "zh": "你会说西班牙语吗？",
+              "note": "语言名称小写"
+            },
+            {
+              "id": "u3l4-04",
+              "es": "Un poco.",
+              "zh": "一点点。"
+            },
+            {
+              "id": "u3l4-05",
+              "es": "estudiar",
+              "zh": "学习"
+            },
+            {
+              "id": "u3l4-06",
+              "es": "Estudio español.",
+              "zh": "我学西班牙语。"
+            },
+            {
+              "id": "u3l4-07",
+              "es": "trabajar",
+              "zh": "工作"
+            },
+            {
+              "id": "u3l4-08",
+              "es": "Trabajamos mucho.",
+              "zh": "我们工作很多。"
+            },
+            {
+              "id": "u3l4-09",
+              "es": "escuchar",
+              "zh": "听"
+            },
+            {
+              "id": "u3l4-10",
+              "es": "¿Escucháis música?",
+              "zh": "你们听音乐吗？",
+              "note": "vosotros 的词尾 -áis 带重音符号"
+            },
+            {
+              "id": "u3l4-11",
+              "es": "comprar",
+              "zh": "买"
+            },
+            {
+              "id": "u3l4-12",
+              "es": "No hablo francés.",
+              "zh": "我不会说法语。"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "Ellos ___ en Madrid.",
+              "zh": "他们在马德里工作。",
+              "options": [
+                "trabajan",
+                "trabajamos",
+                "trabaja"
+              ],
+              "answer": "trabajan"
+            },
+            {
+              "type": "fill",
+              "sentence": "¿Tú ___ inglés?",
+              "zh": "你会说英语吗？",
+              "options": [
+                "hablas",
+                "hablo",
+                "habla"
+              ],
+              "answer": "hablas"
+            },
+            {
+              "type": "fill",
+              "sentence": "Vosotros ___ mucho.",
+              "zh": "你们学习很多。",
+              "options": [
+                "estudiáis",
+                "estudian",
+                "estudiamos"
+              ],
+              "answer": "estudiáis"
+            },
+            {
+              "type": "choice",
+              "question": "hablar 的 nosotros 形式是？",
+              "options": [
+                "hablamos",
+                "hablemos",
+                "hablan"
+              ],
+              "answer": 0,
+              "spanishOptions": true
+            },
+            {
+              "type": "build",
+              "prompt": "我不会说法语。",
+              "answer": [
+                "No",
+                "hablo",
+                "francés"
+              ],
+              "distractors": [
+                "hablas",
+                "Sí"
+              ],
+              "full": "No hablo francés."
+            },
+            {
+              "type": "build",
+              "prompt": "我说中文和英语。",
+              "answer": [
+                "Hablo",
+                "chino",
+                "e",
+                "inglés"
+              ],
+              "distractors": [
+                "y",
+                "china"
+              ],
+              "full": "Hablo chino e inglés."
+            },
+            {
+              "type": "type",
+              "prompt": "我学西班牙语。",
+              "answers": [
+                "estudio español",
+                "yo estudio español"
+              ],
+              "display": "Estudio español."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "title": "在西班牙",
+      "subtitle": "En España",
+      "color": "oro",
+      "lessons": [
+        {
+          "id": "u4l1",
+          "title": "在酒吧点单",
+          "subtitle": "En el bar",
+          "icon": "cup.and.saucer",
+          "tips": [
+            {
+              "title": "点单很直接",
+              "body": "西班牙人点单不绕弯子：Un café con leche, por favor. 或 Para mí, una caña.（我要一杯啤酒。）"
+            },
+            {
+              "title": "服务员会说什么",
+              "body": "¿Qué te pongo?（你要点什么？）对几个人说 ¿Qué os pongo?\n¿Algo más?（还要别的吗？）"
+            },
+            {
+              "title": "酒吧词汇",
+              "body": "una caña：一小杯生啤\nuna tapa：下酒小菜\ntortilla de patatas：西班牙土豆蛋饼"
+            },
+            {
+              "title": "结账",
+              "body": "La cuenta, por favor. 或者 ¿Cuánto es?"
+            }
+          ],
+          "items": [
+            {
+              "id": "u4l1-01",
+              "es": "¿Qué te pongo?",
+              "zh": "你要点什么？",
+              "note": "西班牙酒吧服务员的常用语；对多人说 ¿Qué os pongo?"
+            },
+            {
+              "id": "u4l1-02",
+              "es": "Un café con leche, por favor.",
+              "zh": "一杯牛奶咖啡，谢谢。"
+            },
+            {
+              "id": "u4l1-03",
+              "es": "Para mí, un té.",
+              "zh": "我要一杯茶。",
+              "note": "té（茶）带重音符号，区别于 te（你）"
+            },
+            {
+              "id": "u4l1-04",
+              "es": "una caña",
+              "zh": "一小杯生啤",
+              "pron": "CA-ña"
+            },
+            {
+              "id": "u4l1-05",
+              "es": "un vaso de agua",
+              "zh": "一杯水",
+              "note": "agua 是阴性，但单数时说 el agua，避免两个重读 a 连在一起"
+            },
+            {
+              "id": "u4l1-06",
+              "es": "una tapa de tortilla",
+              "zh": "一份土豆蛋饼小吃",
+              "pron": "tor-TI-ʝa"
+            },
+            {
+              "id": "u4l1-07",
+              "es": "¿Algo más?",
+              "zh": "还要别的吗？"
+            },
+            {
+              "id": "u4l1-08",
+              "es": "Nada más, gracias.",
+              "zh": "不用了，谢谢。"
+            },
+            {
+              "id": "u4l1-09",
+              "es": "La cuenta, por favor.",
+              "zh": "请结账。"
+            },
+            {
+              "id": "u4l1-10",
+              "es": "¿Cuánto es?",
+              "zh": "一共多少钱？"
+            },
+            {
+              "id": "u4l1-11",
+              "es": "Son cinco euros.",
+              "zh": "一共五欧元。",
+              "pron": "euros：EU-ros"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "choice",
+              "question": "服务员问 ¿Algo más?，你不需要别的了，怎么回答？",
+              "options": [
+                "Nada más, gracias.",
+                "Más, por favor.",
+                "De nada."
+              ],
+              "answer": 0,
+              "spanishOptions": true
+            },
+            {
+              "type": "fill",
+              "sentence": "Un café ___ leche.",
+              "zh": "一杯牛奶咖啡",
+              "options": [
+                "con",
+                "de",
+                "y"
+              ],
+              "answer": "con"
+            },
+            {
+              "type": "fill",
+              "sentence": "___ mí, una caña.",
+              "zh": "我要一杯啤酒。",
+              "options": [
+                "Para",
+                "Por",
+                "De"
+              ],
+              "answer": "Para"
+            },
+            {
+              "type": "build",
+              "prompt": "请结账。",
+              "answer": [
+                "La",
+                "cuenta",
+                "por",
+                "favor"
+              ],
+              "distractors": [
+                "El",
+                "cuento"
+              ],
+              "full": "La cuenta, por favor."
+            },
+            {
+              "type": "build",
+              "prompt": "我要一杯水。",
+              "answer": [
+                "Para",
+                "mí",
+                "un",
+                "vaso",
+                "de",
+                "agua"
+              ],
+              "distractors": [
+                "una",
+                "con"
+              ],
+              "full": "Para mí, un vaso de agua."
+            },
+            {
+              "type": "type",
+              "prompt": "一共多少钱？",
+              "answers": [
+                "cuánto es",
+                "cuánto cuesta"
+              ],
+              "display": "¿Cuánto es?"
+            }
+          ]
+        },
+        {
+          "id": "u4l2",
+          "title": "estar 与问路",
+          "subtitle": "¿Dónde está?",
+          "icon": "map",
+          "tips": [
+            {
+              "title": "estar 的变位",
+              "body": "estoy · estás · está · estamos · estáis · están"
+            },
+            {
+              "title": "ser 还是 estar？",
+              "body": "ser：是什么（身份、国籍、职业、性格）\nestar：在哪里、处于什么状态\nMadrid está en España. · Estoy cansado. · Soy ingeniero."
+            },
+            {
+              "title": "问路",
+              "body": "Perdona, ¿dónde está el metro?\n对陌生长辈用 Perdone（usted 形式）。\nhay = 有（存在）：¿Hay una farmacia por aquí?"
+            }
+          ],
+          "items": [
+            {
+              "id": "u4l2-01",
+              "es": "Perdona.",
+              "zh": "打扰一下。（非正式）",
+              "note": "对陌生长辈说 Perdone"
+            },
+            {
+              "id": "u4l2-02",
+              "es": "¿Dónde está el metro?",
+              "zh": "地铁站在哪里？"
+            },
+            {
+              "id": "u4l2-03",
+              "es": "Está cerca.",
+              "zh": "很近。",
+              "pron": "cerca：θER-ca"
+            },
+            {
+              "id": "u4l2-04",
+              "es": "Está lejos.",
+              "zh": "很远。",
+              "pron": "j 读 [x]：LE-xos"
+            },
+            {
+              "id": "u4l2-05",
+              "es": "a la derecha",
+              "zh": "在右边"
+            },
+            {
+              "id": "u4l2-06",
+              "es": "a la izquierda",
+              "zh": "在左边",
+              "pron": "iθ-KIER-da"
+            },
+            {
+              "id": "u4l2-07",
+              "es": "todo recto",
+              "zh": "一直往前走",
+              "note": "西班牙说 todo recto，拉美多说 derecho"
+            },
+            {
+              "id": "u4l2-08",
+              "es": "¿Hay una farmacia por aquí?",
+              "zh": "这附近有药店吗？",
+              "note": "hay 表示「有、存在」",
+              "pron": "h 不发音，hay 读 [ai]"
+            },
+            {
+              "id": "u4l2-09",
+              "es": "¿Cómo estás?",
+              "zh": "你好吗？（问状态）"
+            },
+            {
+              "id": "u4l2-10",
+              "es": "Estoy bien.",
+              "zh": "我很好。"
+            },
+            {
+              "id": "u4l2-11",
+              "es": "Estoy cansado.",
+              "zh": "我累了。（男性说）",
+              "note": "女性说 cansada"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "Madrid ___ en España.",
+              "zh": "马德里在西班牙。",
+              "options": [
+                "está",
+                "es",
+                "hay"
+              ],
+              "answer": "está",
+              "explain": "表示位置用 estar。"
+            },
+            {
+              "type": "fill",
+              "sentence": "Mi padre ___ médico.",
+              "zh": "我爸爸是医生。",
+              "options": [
+                "es",
+                "está",
+                "estoy"
+              ],
+              "answer": "es",
+              "explain": "职业用 ser。"
+            },
+            {
+              "type": "fill",
+              "sentence": "Nosotros ___ cansados.",
+              "zh": "我们累了。",
+              "options": [
+                "estamos",
+                "somos",
+                "estáis"
+              ],
+              "answer": "estamos",
+              "explain": "暂时状态用 estar。"
+            },
+            {
+              "type": "choice",
+              "question": "a la izquierda 是什么意思？",
+              "options": [
+                "在左边",
+                "在右边",
+                "一直往前走"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "build",
+              "prompt": "地铁站在哪里？",
+              "answer": [
+                "Dónde",
+                "está",
+                "el",
+                "metro"
+              ],
+              "distractors": [
+                "es",
+                "la"
+              ],
+              "full": "¿Dónde está el metro?"
+            },
+            {
+              "type": "build",
+              "prompt": "这附近有药店吗？",
+              "answer": [
+                "Hay",
+                "una",
+                "farmacia",
+                "por",
+                "aquí"
+              ],
+              "distractors": [
+                "Está",
+                "un"
+              ],
+              "full": "¿Hay una farmacia por aquí?"
+            },
+            {
+              "type": "type",
+              "prompt": "很近。",
+              "answers": [
+                "está cerca"
+              ],
+              "display": "Está cerca."
+            }
+          ]
+        },
+        {
+          "id": "u4l3",
+          "title": "时间与星期",
+          "subtitle": "La hora y los días",
+          "icon": "clock",
+          "tips": [
+            {
+              "title": "几点了？",
+              "body": "¿Qué hora es?\n1 点用单数：Es la una.\n其他用复数：Son las dos. Son las tres."
+            },
+            {
+              "title": "刻和半",
+              "body": "y cuarto 一刻 · y media 半 · menos cuarto 差一刻\nSon las cuatro y media. 四点半。\nSon las ocho menos cuarto. 七点四十五。"
+            },
+            {
+              "title": "星期",
+              "body": "lunes, martes, miércoles, jueves, viernes, sábado, domingo\n首字母小写。「在星期一」直接说 el lunes，不加介词。"
+            }
+          ],
+          "items": [
+            {
+              "id": "u4l3-01",
+              "es": "¿Qué hora es?",
+              "zh": "几点了？"
+            },
+            {
+              "id": "u4l3-02",
+              "es": "Es la una.",
+              "zh": "一点了。"
+            },
+            {
+              "id": "u4l3-03",
+              "es": "Son las dos.",
+              "zh": "两点了。"
+            },
+            {
+              "id": "u4l3-04",
+              "es": "Son las tres y media.",
+              "zh": "三点半。"
+            },
+            {
+              "id": "u4l3-05",
+              "es": "Son las cinco y cuarto.",
+              "zh": "五点一刻。"
+            },
+            {
+              "id": "u4l3-06",
+              "es": "Son las ocho menos cuarto.",
+              "zh": "七点四十五。",
+              "note": "字面意思：八点差一刻"
+            },
+            {
+              "id": "u4l3-07",
+              "es": "¿A qué hora?",
+              "zh": "几点（做某事）？"
+            },
+            {
+              "id": "u4l3-08",
+              "es": "lunes",
+              "zh": "星期一"
+            },
+            {
+              "id": "u4l3-09",
+              "es": "martes",
+              "zh": "星期二"
+            },
+            {
+              "id": "u4l3-10",
+              "es": "miércoles",
+              "zh": "星期三",
+              "pron": "MIÉR-co-les"
+            },
+            {
+              "id": "u4l3-11",
+              "es": "jueves",
+              "zh": "星期四",
+              "pron": "j 读 [x]：XUE-bes"
+            },
+            {
+              "id": "u4l3-12",
+              "es": "viernes",
+              "zh": "星期五"
+            },
+            {
+              "id": "u4l3-13",
+              "es": "sábado y domingo",
+              "zh": "星期六和星期日"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "choice",
+              "question": "1:00 怎么说？",
+              "options": [
+                "Es la una.",
+                "Son las una.",
+                "Es el uno."
+              ],
+              "answer": 0,
+              "spanishOptions": true
+            },
+            {
+              "type": "choice",
+              "question": "Son las seis y media. 是几点？",
+              "options": [
+                "6:30",
+                "6:15",
+                "5:30"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "fill",
+              "sentence": "Son las nueve ___ cuarto.",
+              "zh": "8:45",
+              "options": [
+                "menos",
+                "y",
+                "media"
+              ],
+              "answer": "menos"
+            },
+            {
+              "type": "fill",
+              "sentence": "___ lunes trabajo.",
+              "zh": "星期一我工作。",
+              "options": [
+                "El",
+                "En",
+                "A"
+              ],
+              "answer": "El",
+              "explain": "「在星期几」用定冠词，不加介词。"
+            },
+            {
+              "type": "build",
+              "prompt": "几点了？",
+              "answer": [
+                "Qué",
+                "hora",
+                "es"
+              ],
+              "distractors": [
+                "son",
+                "está"
+              ],
+              "full": "¿Qué hora es?"
+            },
+            {
+              "type": "type",
+              "prompt": "星期五",
+              "answers": [
+                "viernes"
+              ],
+              "display": "viernes"
+            },
+            {
+              "type": "type",
+              "prompt": "两点了。",
+              "answers": [
+                "son las dos"
+              ],
+              "display": "Son las dos."
+            }
+          ]
+        },
+        {
+          "id": "u4l4",
+          "title": "喜好",
+          "subtitle": "Me gusta",
+          "icon": "heart",
+          "tips": [
+            {
+              "title": "gustar 的结构",
+              "body": "Me gusta el café. 字面意思是「咖啡让我喜欢」。被喜欢的东西才是主语。"
+            },
+            {
+              "title": "gusta 还是 gustan？",
+              "body": "单数名词或动词原形 → gusta：Me gusta leer.\n复数名词 → gustan：Me gustan los perros."
+            },
+            {
+              "title": "谁喜欢",
+              "body": "me 我 · te 你 · le 他 / 她 / 您 · nos 我们 · os 你们 · les 他们\n否定：No me gusta."
+            },
+            {
+              "title": "附和别人",
+              "body": "A mí también. 我也是（喜欢）。\nA mí tampoco. 我也不（喜欢）。\nMe encanta = 我超爱。"
+            }
+          ],
+          "items": [
+            {
+              "id": "u4l4-01",
+              "es": "Me gusta el café.",
+              "zh": "我喜欢咖啡。"
+            },
+            {
+              "id": "u4l4-02",
+              "es": "Me gustan los perros.",
+              "zh": "我喜欢狗。"
+            },
+            {
+              "id": "u4l4-03",
+              "es": "¿Te gusta el fútbol?",
+              "zh": "你喜欢足球吗？"
+            },
+            {
+              "id": "u4l4-04",
+              "es": "No me gusta.",
+              "zh": "我不喜欢。"
+            },
+            {
+              "id": "u4l4-05",
+              "es": "Me encanta viajar.",
+              "zh": "我超爱旅行。"
+            },
+            {
+              "id": "u4l4-06",
+              "es": "A mí también.",
+              "zh": "我也是。（肯定附和）"
+            },
+            {
+              "id": "u4l4-07",
+              "es": "A mí tampoco.",
+              "zh": "我也不。（否定附和）"
+            },
+            {
+              "id": "u4l4-08",
+              "es": "Nos gusta la música.",
+              "zh": "我们喜欢音乐。"
+            },
+            {
+              "id": "u4l4-09",
+              "es": "¿Os gusta Madrid?",
+              "zh": "你们喜欢马德里吗？",
+              "note": "os = 你们（vosotros）"
+            },
+            {
+              "id": "u4l4-10",
+              "es": "¡Qué guay!",
+              "zh": "太酷了！",
+              "note": "西班牙年轻人口语",
+              "pron": "guay 读 [ɡwai]"
+            },
+            {
+              "id": "u4l4-11",
+              "es": "Mola mucho.",
+              "zh": "超赞的。",
+              "note": "西班牙口语，molar = 很棒"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "Me ___ las tapas.",
+              "zh": "我喜欢 tapas。",
+              "options": [
+                "gustan",
+                "gusta",
+                "gusto"
+              ],
+              "answer": "gustan",
+              "explain": "las tapas 是复数，用 gustan。"
+            },
+            {
+              "type": "fill",
+              "sentence": "¿Te ___ cocinar?",
+              "zh": "你喜欢做饭吗？",
+              "options": [
+                "gusta",
+                "gustan",
+                "gustas"
+              ],
+              "answer": "gusta",
+              "explain": "动词原形用单数 gusta。"
+            },
+            {
+              "type": "choice",
+              "question": "朋友说 No me gusta el frío.（我不喜欢冷天），你也不喜欢，应该回答：",
+              "options": [
+                "A mí tampoco.",
+                "A mí también.",
+                "Me gusta."
+              ],
+              "answer": 0,
+              "spanishOptions": true
+            },
+            {
+              "type": "choice",
+              "question": "Nos gusta 里的 nos 指谁喜欢？",
+              "options": [
+                "我们",
+                "你们",
+                "他们"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "build",
+              "prompt": "我超爱旅行。",
+              "answer": [
+                "Me",
+                "encanta",
+                "viajar"
+              ],
+              "distractors": [
+                "encantan",
+                "Te"
+              ],
+              "full": "Me encanta viajar."
+            },
+            {
+              "type": "build",
+              "prompt": "你喜欢足球吗？",
+              "answer": [
+                "Te",
+                "gusta",
+                "el",
+                "fútbol"
+              ],
+              "distractors": [
+                "gustan",
+                "Me"
+              ],
+              "full": "¿Te gusta el fútbol?"
+            },
+            {
+              "type": "type",
+              "prompt": "我也是。（附和喜欢）",
+              "answers": [
+                "a mí también"
+              ],
+              "display": "A mí también."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "title": "日常作息",
+      "subtitle": "La rutina diaria",
+      "color": "rojo",
+      "lessons": [
+        {
+          "id": "u5l1",
+          "title": "-er 和 -ir 动词",
+          "subtitle": "Comer, beber, vivir",
+          "icon": "fork.knife",
+          "tips": [
+            {
+              "title": "-er 动词",
+              "body": "去掉 -er，加 -o · -es · -e · -emos · -éis · -en\ncomer → como, comes, come, comemos, coméis, comen"
+            },
+            {
+              "title": "-ir 动词",
+              "body": "去掉 -ir，加 -o · -es · -e · -imos · -ís · -en\nvivir → vivo, vives, vive, vivimos, vivís, viven\n和 -er 动词相比，只有 nosotros 和 vosotros 两个形式不同。"
+            },
+            {
+              "title": "常用动词",
+              "body": "-er：comer 吃 · beber 喝 · leer 读 · aprender 学会 · comprender 理解\n-ir：vivir 住 · escribir 写 · abrir 打开 · recibir 收到"
+            },
+            {
+              "title": "aprender 和 estudiar",
+              "body": "estudiar 指「学习、读书、上课」这个过程；aprender 更强调「学会、掌握」。Aprendo mucho en clase.（我在课上学到很多。）"
+            }
+          ],
+          "items": [
+            {
+              "id": "u5l1-01",
+              "es": "comer",
+              "zh": "吃；吃午饭",
+              "note": "在西班牙 comer 常专指吃午饭"
+            },
+            {
+              "id": "u5l1-02",
+              "es": "beber",
+              "zh": "喝",
+              "pron": "b 在元音间双唇不闭紧：be-BER"
+            },
+            {
+              "id": "u5l1-03",
+              "es": "leer",
+              "zh": "读",
+              "pron": "两个 e 分开读：le-ER"
+            },
+            {
+              "id": "u5l1-04",
+              "es": "aprender",
+              "zh": "学会"
+            },
+            {
+              "id": "u5l1-05",
+              "es": "vivir",
+              "zh": "住；生活"
+            },
+            {
+              "id": "u5l1-06",
+              "es": "escribir",
+              "zh": "写"
+            },
+            {
+              "id": "u5l1-07",
+              "es": "¿Dónde vives?",
+              "zh": "你住在哪里？"
+            },
+            {
+              "id": "u5l1-08",
+              "es": "Comemos a las dos.",
+              "zh": "我们两点吃午饭。",
+              "note": "西班牙人午饭一般在 14–15 点"
+            },
+            {
+              "id": "u5l1-09",
+              "es": "¿Qué lees?",
+              "zh": "你在读什么？",
+              "note": "西语一般现在时也可以表示「正在做」"
+            },
+            {
+              "id": "u5l1-10",
+              "es": "Aprendo español.",
+              "zh": "我在学西班牙语。"
+            },
+            {
+              "id": "u5l1-11",
+              "es": "Escribís muy bien.",
+              "zh": "你们写得很好。",
+              "note": "vosotros 的 -ir 词尾是 -ís"
+            },
+            {
+              "id": "u5l1-12",
+              "es": "No bebo café.",
+              "zh": "我不喝咖啡。"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "Nosotros ___ en Madrid.",
+              "zh": "我们住在马德里。",
+              "options": [
+                "vivimos",
+                "vivemos",
+                "viven"
+              ],
+              "answer": "vivimos",
+              "explain": "-ir 动词 nosotros 词尾是 -imos。"
+            },
+            {
+              "type": "fill",
+              "sentence": "¿Vosotros ___ cerveza?",
+              "zh": "你们喝啤酒吗？",
+              "options": [
+                "bebéis",
+                "bebís",
+                "beben"
+              ],
+              "answer": "bebéis",
+              "explain": "-er 动词 vosotros 词尾是 -éis。"
+            },
+            {
+              "type": "fill",
+              "sentence": "Ella ___ un libro.",
+              "zh": "她在读一本书。",
+              "options": [
+                "lee",
+                "lees",
+                "leo"
+              ],
+              "answer": "lee"
+            },
+            {
+              "type": "choice",
+              "question": "escribir 的 vosotros 形式是？",
+              "options": [
+                "escribís",
+                "escribéis",
+                "escriben"
+              ],
+              "answer": 0,
+              "spanishOptions": true
+            },
+            {
+              "type": "build",
+              "prompt": "你住在哪里？",
+              "answer": [
+                "Dónde",
+                "vives"
+              ],
+              "distractors": [
+                "vivo",
+                "Qué"
+              ],
+              "full": "¿Dónde vives?"
+            },
+            {
+              "type": "build",
+              "prompt": "我们两点吃午饭。",
+              "answer": [
+                "Comemos",
+                "a",
+                "las",
+                "dos"
+              ],
+              "distractors": [
+                "Comen",
+                "la"
+              ],
+              "full": "Comemos a las dos."
+            },
+            {
+              "type": "type",
+              "prompt": "我不喝咖啡。",
+              "answers": [
+                "no bebo café"
+              ],
+              "display": "No bebo café."
+            }
+          ]
+        },
+        {
+          "id": "u5l2",
+          "title": "反身动词与作息",
+          "subtitle": "Me levanto a las siete",
+          "icon": "alarm",
+          "tips": [
+            {
+              "title": "反身动词",
+              "body": "动作作用在自己身上的动词，原形带 -se：levantarse 起床 · ducharse 洗澡 · acostarse 睡觉 · vestirse 穿衣。\n代词随人称变化：me · te · se · nos · os · se，放在变位动词前：Me levanto. ¿Te duchas?"
+            },
+            {
+              "title": "有的还会变词干",
+              "body": "acostarse → me acuesto（o→ue）\ndespertarse → me despierto（e→ie）\nvestirse → me visto（e→i）\nnosotros、vosotros 不变：nos acostamos。"
+            },
+            {
+              "title": "身体部位用定冠词",
+              "body": "Me lavo los dientes.（我刷牙。）不说 mis dientes——反身代词 me 已经表明是「我的」。"
+            },
+            {
+              "title": "频率与顺序",
+              "body": "siempre 总是 · normalmente 通常 · a veces 有时 · nunca 从不\nnunca 放在动词前时不需要 no：Nunca desayuno.\n顺序：primero 先 · luego / después 然后 · por último 最后"
+            }
+          ],
+          "items": [
+            {
+              "id": "u5l2-01",
+              "es": "levantarse",
+              "zh": "起床"
+            },
+            {
+              "id": "u5l2-02",
+              "es": "ducharse",
+              "zh": "洗澡（淋浴）"
+            },
+            {
+              "id": "u5l2-03",
+              "es": "Me levanto a las siete.",
+              "zh": "我七点起床。"
+            },
+            {
+              "id": "u5l2-04",
+              "es": "Me ducho por la mañana.",
+              "zh": "我早上洗澡。"
+            },
+            {
+              "id": "u5l2-05",
+              "es": "¿A qué hora te acuestas?",
+              "zh": "你几点睡觉？",
+              "note": "acostarse 的 o 在重读音节变成 ue"
+            },
+            {
+              "id": "u5l2-06",
+              "es": "Me acuesto tarde.",
+              "zh": "我睡得晚。"
+            },
+            {
+              "id": "u5l2-07",
+              "es": "desayunar",
+              "zh": "吃早饭",
+              "note": "不是反身动词"
+            },
+            {
+              "id": "u5l2-08",
+              "es": "Primero desayuno y luego me lavo los dientes.",
+              "zh": "我先吃早饭然后刷牙。"
+            },
+            {
+              "id": "u5l2-09",
+              "es": "Normalmente trabajo de nueve a seis.",
+              "zh": "我通常九点到六点上班。"
+            },
+            {
+              "id": "u5l2-10",
+              "es": "Nunca me acuesto antes de las doce.",
+              "zh": "我从不在十二点前睡觉。"
+            },
+            {
+              "id": "u5l2-11",
+              "es": "Los fines de semana me levanto tarde.",
+              "zh": "周末我起得晚。"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "Yo ___ levanto a las ocho.",
+              "zh": "我八点起床。",
+              "options": [
+                "me",
+                "te",
+                "se"
+              ],
+              "answer": "me"
+            },
+            {
+              "type": "fill",
+              "sentence": "¿A qué hora ___ duchas?",
+              "zh": "你几点洗澡？",
+              "options": [
+                "te",
+                "me",
+                "se"
+              ],
+              "answer": "te"
+            },
+            {
+              "type": "fill",
+              "sentence": "Nosotros nos ___ a las once.",
+              "zh": "我们十一点睡觉。",
+              "options": [
+                "acostamos",
+                "acuestamos",
+                "acostáis"
+              ],
+              "answer": "acostamos",
+              "explain": "词干变化不影响 nosotros 和 vosotros。"
+            },
+            {
+              "type": "choice",
+              "question": "「我刷牙」哪一句正确？",
+              "options": [
+                "Me lavo los dientes.",
+                "Lavo mis dientes.",
+                "Me lavo mis dientes."
+              ],
+              "answer": 0,
+              "spanishOptions": true,
+              "explain": "反身动词 + 身体部位用定冠词。"
+            },
+            {
+              "type": "choice",
+              "question": "哪一句是正确的？",
+              "options": [
+                "Nunca bebo café.",
+                "No nunca bebo café.",
+                "Bebo nunca café."
+              ],
+              "answer": 0,
+              "spanishOptions": true,
+              "explain": "nunca 放在动词前时不加 no；也可以说 No bebo nunca café。"
+            },
+            {
+              "type": "build",
+              "prompt": "我先吃早饭然后洗澡。",
+              "answer": [
+                "Primero",
+                "desayuno",
+                "y",
+                "luego",
+                "me",
+                "ducho"
+              ],
+              "distractors": [
+                "duchas",
+                "se"
+              ],
+              "full": "Primero desayuno y luego me ducho."
+            },
+            {
+              "type": "type",
+              "prompt": "我七点起床。",
+              "answers": [
+                "me levanto a las siete"
+              ],
+              "display": "Me levanto a las siete."
+            }
+          ]
+        },
+        {
+          "id": "u5l3",
+          "title": "词干变化动词",
+          "subtitle": "Quiero, puedo, pido",
+          "icon": "arrow.left.arrow.right",
+          "tips": [
+            {
+              "title": "e → ie",
+              "body": "重读音节里的 e 变成 ie，nosotros、vosotros 不变：\nquerer → quiero, quieres, quiere, queremos, queréis, quieren\n同类：empezar 开始 · pensar 想 · preferir 更喜欢"
+            },
+            {
+              "title": "o → ue",
+              "body": "poder → puedo, puedes, puede, podemos, podéis, pueden\n同类：dormir 睡 · volver 回来 · encontrar 找到 · costar 花费（cuesta）\njugar 是唯一 u → ue 的动词：juego, juegas…"
+            },
+            {
+              "title": "e → i（只有 -ir 动词）",
+              "body": "pedir → pido, pides, pide, pedimos, pedís, piden\n同类：repetir 重复 · servir 服务 · vestirse 穿衣"
+            },
+            {
+              "title": "+ 动词原形",
+              "body": "querer / poder / preferir 后面直接接动词原形：\nQuiero viajar. ¿Puedes repetir? Prefiero quedarme en casa."
+            }
+          ],
+          "items": [
+            {
+              "id": "u5l3-01",
+              "es": "querer",
+              "zh": "想要；爱"
+            },
+            {
+              "id": "u5l3-02",
+              "es": "Quiero un café.",
+              "zh": "我想要一杯咖啡。"
+            },
+            {
+              "id": "u5l3-03",
+              "es": "¿Quieres venir?",
+              "zh": "你想来吗？",
+              "note": "venir（来）也不规则：vengo, vienes, viene…"
+            },
+            {
+              "id": "u5l3-04",
+              "es": "poder",
+              "zh": "能够；可以"
+            },
+            {
+              "id": "u5l3-05",
+              "es": "¿Puedo pasar?",
+              "zh": "我可以进来吗？"
+            },
+            {
+              "id": "u5l3-06",
+              "es": "No puedo, lo siento.",
+              "zh": "我不行，抱歉。"
+            },
+            {
+              "id": "u5l3-07",
+              "es": "Duermo ocho horas.",
+              "zh": "我睡八个小时。",
+              "note": "dormir：o → ue"
+            },
+            {
+              "id": "u5l3-08",
+              "es": "pedir",
+              "zh": "要求；点（菜）"
+            },
+            {
+              "id": "u5l3-09",
+              "es": "Pido la cuenta.",
+              "zh": "我来叫结账。"
+            },
+            {
+              "id": "u5l3-10",
+              "es": "jugar al fútbol",
+              "zh": "踢足球",
+              "note": "jugar a + 运动；a + el 缩合成 al"
+            },
+            {
+              "id": "u5l3-11",
+              "es": "Empezamos a las nueve.",
+              "zh": "我们九点开始。",
+              "note": "nosotros 形式不变词干"
+            },
+            {
+              "id": "u5l3-12",
+              "es": "Vuelvo a casa a las siete.",
+              "zh": "我七点回家。"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "¿___ venir a la fiesta?",
+              "zh": "你想来派对吗？",
+              "options": [
+                "Quieres",
+                "Queres",
+                "Quiere"
+              ],
+              "answer": "Quieres"
+            },
+            {
+              "type": "fill",
+              "sentence": "Nosotros ___ jugar mañana.",
+              "zh": "我们明天可以玩。",
+              "options": [
+                "podemos",
+                "puedemos",
+                "pueden"
+              ],
+              "answer": "podemos",
+              "explain": "nosotros 不变词干。"
+            },
+            {
+              "type": "fill",
+              "sentence": "Ellos siempre ___ paella.",
+              "zh": "他们总是点海鲜饭。",
+              "options": [
+                "piden",
+                "peden",
+                "pedimos"
+              ],
+              "answer": "piden"
+            },
+            {
+              "type": "choice",
+              "question": "dormir 的 yo 形式是？",
+              "options": [
+                "duermo",
+                "dormo",
+                "durmo"
+              ],
+              "answer": 0,
+              "spanishOptions": true
+            },
+            {
+              "type": "build",
+              "prompt": "我可以进来吗？",
+              "answer": [
+                "Puedo",
+                "pasar"
+              ],
+              "distractors": [
+                "Puedes",
+                "Quiero"
+              ],
+              "full": "¿Puedo pasar?"
+            },
+            {
+              "type": "build",
+              "prompt": "我七点回家。",
+              "answer": [
+                "Vuelvo",
+                "a",
+                "casa",
+                "a",
+                "las",
+                "siete"
+              ],
+              "distractors": [
+                "Volvo",
+                "la"
+              ],
+              "full": "Vuelvo a casa a las siete."
+            },
+            {
+              "type": "type",
+              "prompt": "我想要一杯咖啡。",
+              "answers": [
+                "quiero un café"
+              ],
+              "display": "Quiero un café."
+            }
+          ]
+        },
+        {
+          "id": "u5l4",
+          "title": "ir 与近将来时",
+          "subtitle": "Voy a viajar",
+          "icon": "airplane",
+          "tips": [
+            {
+              "title": "ir（去）完全不规则",
+              "body": "voy · vas · va · vamos · vais · van"
+            },
+            {
+              "title": "ir a + 地点",
+              "body": "Voy al trabajo. Vamos a la playa.\n注意 a + el = al。问去向用 ¿Adónde vas?"
+            },
+            {
+              "title": "ir a + 动词原形 = 打算 / 将要",
+              "body": "Voy a estudiar.（我要去学习。）\n¿Qué vas a hacer este fin de semana?\n这是口语里最常用的将来表达。"
+            },
+            {
+              "title": "将来的时间",
+              "body": "hoy · mañana · esta tarde · esta noche · este fin de semana · el próximo lunes · la semana que viene"
+            },
+            {
+              "title": "人作宾语要加 a",
+              "body": "Voy a visitar a mis padres. 当宾语是具体的人时，前面加 a（叫做「人称 a」）。"
+            }
+          ],
+          "items": [
+            {
+              "id": "u5l4-01",
+              "es": "Voy al trabajo.",
+              "zh": "我去上班。"
+            },
+            {
+              "id": "u5l4-02",
+              "es": "¿Adónde vas?",
+              "zh": "你去哪儿？",
+              "note": "adónde 用于问去向，也可以写作 a dónde"
+            },
+            {
+              "id": "u5l4-03",
+              "es": "Vamos a la playa.",
+              "zh": "我们去海滩。"
+            },
+            {
+              "id": "u5l4-04",
+              "es": "¿Qué vas a hacer mañana?",
+              "zh": "你明天打算做什么？",
+              "note": "hacer（做）的 yo 形式是 hago"
+            },
+            {
+              "id": "u5l4-05",
+              "es": "Voy a estudiar.",
+              "zh": "我要去学习。"
+            },
+            {
+              "id": "u5l4-06",
+              "es": "Este fin de semana voy a visitar a mis padres.",
+              "zh": "这个周末我要去看我父母。"
+            },
+            {
+              "id": "u5l4-07",
+              "es": "Esta noche vamos a cenar fuera.",
+              "zh": "今晚我们出去吃饭。"
+            },
+            {
+              "id": "u5l4-08",
+              "es": "¿Vais a venir?",
+              "zh": "你们会来吗？"
+            },
+            {
+              "id": "u5l4-09",
+              "es": "¡Vamos!",
+              "zh": "走吧！/ 加油！"
+            },
+            {
+              "id": "u5l4-10",
+              "es": "el próximo lunes",
+              "zh": "下周一"
+            },
+            {
+              "id": "u5l4-11",
+              "es": "Va a llover.",
+              "zh": "要下雨了。"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "Mañana ___ a trabajar.",
+              "zh": "明天我要工作。",
+              "options": [
+                "voy",
+                "vas",
+                "va"
+              ],
+              "answer": "voy"
+            },
+            {
+              "type": "fill",
+              "sentence": "¿Vosotros ___ a la fiesta?",
+              "zh": "你们去派对吗？",
+              "options": [
+                "vais",
+                "vamos",
+                "van"
+              ],
+              "answer": "vais"
+            },
+            {
+              "type": "fill",
+              "sentence": "Voy a visitar ___ mi abuela.",
+              "zh": "我要去看我奶奶。",
+              "options": [
+                "a",
+                "al",
+                "de"
+              ],
+              "answer": "a",
+              "explain": "具体的人作直接宾语，前面加 a。"
+            },
+            {
+              "type": "choice",
+              "question": "「我们要吃午饭了」怎么说？",
+              "options": [
+                "Vamos a comer.",
+                "Vamos comer.",
+                "Vamos a comemos."
+              ],
+              "answer": 0,
+              "spanishOptions": true,
+              "explain": "ir a + 动词原形。"
+            },
+            {
+              "type": "build",
+              "prompt": "你明天打算做什么？",
+              "answer": [
+                "Qué",
+                "vas",
+                "a",
+                "hacer",
+                "mañana"
+              ],
+              "distractors": [
+                "haces",
+                "voy"
+              ],
+              "full": "¿Qué vas a hacer mañana?"
+            },
+            {
+              "type": "build",
+              "prompt": "今晚我们出去吃饭。",
+              "answer": [
+                "Esta",
+                "noche",
+                "vamos",
+                "a",
+                "cenar",
+                "fuera"
+              ],
+              "distractors": [
+                "Este",
+                "van"
+              ],
+              "full": "Esta noche vamos a cenar fuera."
+            },
+            {
+              "type": "type",
+              "prompt": "你去哪儿？",
+              "answers": [
+                "adónde vas",
+                "a dónde vas"
+              ],
+              "display": "¿Adónde vas?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "title": "城市与生活",
+      "subtitle": "La ciudad y las compras",
+      "color": "azul",
+      "lessons": [
+        {
+          "id": "u6l1",
+          "title": "衣服与颜色",
+          "subtitle": "La ropa y los colores",
+          "icon": "tshirt",
+          "tips": [
+            {
+              "title": "颜色放在名词后，并且要配合",
+              "body": "una camisa roja · unos zapatos negros\n-o 结尾的颜色有四种形式：rojo, roja, rojos, rojas\n-e 或辅音结尾只分单复数：verde, verdes · azul, azules · gris, grises"
+            },
+            {
+              "title": "指示词：这、那、那",
+              "body": "este / esta / estos / estas：这（离我近）\nese / esa / esos / esas：那（离你近）\naquel / aquella / aquellos / aquellas：那（离我们都远）"
+            },
+            {
+              "title": "在服装店",
+              "body": "¿Tiene esta camiseta en la talla M?（有 M 码吗？）\n¿Puedo probármela?（我可以试穿吗？）\nMe queda grande / pequeño.（我穿大了 / 小了。）\nMe quedo con este.（我买这件。）"
+            }
+          ],
+          "items": [
+            {
+              "id": "u6l1-01",
+              "es": "la camisa",
+              "zh": "衬衫"
+            },
+            {
+              "id": "u6l1-02",
+              "es": "la camiseta",
+              "zh": "T 恤"
+            },
+            {
+              "id": "u6l1-03",
+              "es": "los pantalones",
+              "zh": "裤子",
+              "note": "西语用复数表示一条裤子"
+            },
+            {
+              "id": "u6l1-04",
+              "es": "los zapatos",
+              "zh": "鞋",
+              "pron": "z 读 [θ]：θa-PA-tos"
+            },
+            {
+              "id": "u6l1-05",
+              "es": "el vestido",
+              "zh": "连衣裙"
+            },
+            {
+              "id": "u6l1-06",
+              "es": "rojo / roja",
+              "zh": "红色的",
+              "tts": "rojo, roja"
+            },
+            {
+              "id": "u6l1-07",
+              "es": "negro / negra",
+              "zh": "黑色的",
+              "tts": "negro, negra"
+            },
+            {
+              "id": "u6l1-08",
+              "es": "azul",
+              "zh": "蓝色的（男女同形）"
+            },
+            {
+              "id": "u6l1-09",
+              "es": "Esta camisa es muy bonita.",
+              "zh": "这件衬衫很好看。"
+            },
+            {
+              "id": "u6l1-10",
+              "es": "¿Tiene esta camiseta en azul?",
+              "zh": "这件 T 恤有蓝色的吗？",
+              "note": "对店员用 usted 形式 tiene"
+            },
+            {
+              "id": "u6l1-11",
+              "es": "¿Puedo probármela?",
+              "zh": "我可以试穿吗？",
+              "note": "probarse + la（指这件衣服），代词接在原形后，所以加重音符号"
+            },
+            {
+              "id": "u6l1-12",
+              "es": "Me quedo con estos pantalones.",
+              "zh": "我要这条裤子。",
+              "note": "quedarse con：决定买下 / 留下"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "Quiero una camisa ___.",
+              "zh": "我想要一件红衬衫。",
+              "options": [
+                "roja",
+                "rojo",
+                "rojas"
+              ],
+              "answer": "roja"
+            },
+            {
+              "type": "fill",
+              "sentence": "Los pantalones son ___.",
+              "zh": "裤子是黑色的。",
+              "options": [
+                "negros",
+                "negras",
+                "negro"
+              ],
+              "answer": "negros"
+            },
+            {
+              "type": "fill",
+              "sentence": "___ zapatos son caros.",
+              "zh": "这双鞋很贵。",
+              "options": [
+                "Estos",
+                "Estas",
+                "Este"
+              ],
+              "answer": "Estos"
+            },
+            {
+              "type": "choice",
+              "question": "aquel 指的是？",
+              "options": [
+                "离说话双方都远的那个",
+                "离说话人近的这个",
+                "离听话人近的那个"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "build",
+              "prompt": "这件衬衫很好看。",
+              "answer": [
+                "Esta",
+                "camisa",
+                "es",
+                "muy",
+                "bonita"
+              ],
+              "distractors": [
+                "Este",
+                "bonito"
+              ],
+              "full": "Esta camisa es muy bonita."
+            },
+            {
+              "type": "build",
+              "prompt": "这件 T 恤有蓝色的吗？",
+              "answer": [
+                "Tiene",
+                "esta",
+                "camiseta",
+                "en",
+                "azul"
+              ],
+              "distractors": [
+                "este",
+                "de"
+              ],
+              "full": "¿Tiene esta camiseta en azul?"
+            },
+            {
+              "type": "type",
+              "prompt": "我要这条裤子。",
+              "answers": [
+                "me quedo con estos pantalones"
+              ],
+              "display": "Me quedo con estos pantalones."
+            }
+          ]
+        },
+        {
+          "id": "u6l2",
+          "title": "购物",
+          "subtitle": "De compras",
+          "icon": "cart",
+          "tips": [
+            {
+              "title": "问价",
+              "body": "¿Cuánto cuesta?（单件）· ¿Cuánto cuestan?（多件）· ¿Cuánto es?（一共）\ncostar 是 o → ue 的词干变化动词。"
+            },
+            {
+              "title": "量词",
+              "body": "un kilo de · medio kilo de · una botella de · una barra de pan · una docena de huevos · una lata de"
+            },
+            {
+              "title": "在市场和小店",
+              "body": "店员：¿Qué le pongo?（您要点什么？）\n你：Póngame un kilo de tomates.（给我一公斤西红柿。）\n店员：¿Algo más? — Nada más, gracias."
+            },
+            {
+              "title": "付款",
+              "body": "¿Puedo pagar con tarjeta?（能刷卡吗？）— Sí, claro. / Solo en efectivo.（只收现金。）"
+            }
+          ],
+          "items": [
+            {
+              "id": "u6l2-01",
+              "es": "¿Cuánto cuestan las manzanas?",
+              "zh": "苹果多少钱？"
+            },
+            {
+              "id": "u6l2-02",
+              "es": "un kilo de tomates",
+              "zh": "一公斤西红柿"
+            },
+            {
+              "id": "u6l2-03",
+              "es": "medio kilo de queso",
+              "zh": "半公斤奶酪"
+            },
+            {
+              "id": "u6l2-04",
+              "es": "una barra de pan",
+              "zh": "一根面包（长棍）"
+            },
+            {
+              "id": "u6l2-05",
+              "es": "una botella de aceite",
+              "zh": "一瓶油",
+              "note": "西班牙是橄榄油大国，aceite 默认就是橄榄油"
+            },
+            {
+              "id": "u6l2-06",
+              "es": "una docena de huevos",
+              "zh": "一打鸡蛋",
+              "pron": "h 不发音：UE-bos"
+            },
+            {
+              "id": "u6l2-07",
+              "es": "¿Qué le pongo?",
+              "zh": "您要点什么？",
+              "note": "店员对顾客用 usted（le）"
+            },
+            {
+              "id": "u6l2-08",
+              "es": "Póngame dos kilos de naranjas.",
+              "zh": "给我两公斤橙子。"
+            },
+            {
+              "id": "u6l2-09",
+              "es": "¿Puedo pagar con tarjeta?",
+              "zh": "可以刷卡吗？"
+            },
+            {
+              "id": "u6l2-10",
+              "es": "En efectivo.",
+              "zh": "用现金。"
+            },
+            {
+              "id": "u6l2-11",
+              "es": "Es muy caro.",
+              "zh": "太贵了。"
+            },
+            {
+              "id": "u6l2-12",
+              "es": "Está de oferta.",
+              "zh": "正在打折。"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "¿Cuánto ___ los tomates?",
+              "zh": "西红柿多少钱？",
+              "options": [
+                "cuestan",
+                "cuesta",
+                "cuestas"
+              ],
+              "answer": "cuestan"
+            },
+            {
+              "type": "fill",
+              "sentence": "Un kilo ___ naranjas, por favor.",
+              "zh": "请给我一公斤橙子。",
+              "options": [
+                "de",
+                "con",
+                "en"
+              ],
+              "answer": "de"
+            },
+            {
+              "type": "fill",
+              "sentence": "¿Puedo pagar ___ tarjeta?",
+              "zh": "可以刷卡吗？",
+              "options": [
+                "con",
+                "en",
+                "de"
+              ],
+              "answer": "con"
+            },
+            {
+              "type": "choice",
+              "question": "店员问 ¿Algo más?，你还想要一瓶水，应该说：",
+              "options": [
+                "Sí, una botella de agua.",
+                "Nada más.",
+                "Es muy caro."
+              ],
+              "answer": 0,
+              "spanishOptions": true
+            },
+            {
+              "type": "build",
+              "prompt": "给我两公斤橙子。",
+              "answer": [
+                "Póngame",
+                "dos",
+                "kilos",
+                "de",
+                "naranjas"
+              ],
+              "distractors": [
+                "kilo",
+                "con"
+              ],
+              "full": "Póngame dos kilos de naranjas."
+            },
+            {
+              "type": "build",
+              "prompt": "正在打折。",
+              "answer": [
+                "Está",
+                "de",
+                "oferta"
+              ],
+              "distractors": [
+                "Es",
+                "en"
+              ],
+              "full": "Está de oferta."
+            },
+            {
+              "type": "type",
+              "prompt": "太贵了。",
+              "answers": [
+                "es muy caro"
+              ],
+              "display": "Es muy caro."
+            }
+          ]
+        },
+        {
+          "id": "u6l3",
+          "title": "天气与季节",
+          "subtitle": "¿Qué tiempo hace?",
+          "icon": "cloud.sun",
+          "tips": [
+            {
+              "title": "天气多用 hacer",
+              "body": "Hace calor / frío / sol / viento / buen tiempo / mal tiempo."
+            },
+            {
+              "title": "下雨、下雪有专门的动词",
+              "body": "Llueve.（llover）· Nieva.（nevar）· Está nublado.（多云、阴天）"
+            },
+            {
+              "title": "mucho 还是 muy？",
+              "body": "calor、frío 是名词，所以说 Hace mucho calor（很热），不能说 muy calor。\n形容词才用 muy：Está muy nublado."
+            },
+            {
+              "title": "季节和月份",
+              "body": "la primavera · el verano · el otoño · el invierno\n月份小写：enero, febrero, marzo…"
+            },
+            {
+              "title": "西班牙的气候",
+              "body": "马德里夏天能到 40°C，冬天干冷；北部的加利西亚、巴斯克多雨；南部的安达卢西亚温暖少雨。"
+            }
+          ],
+          "items": [
+            {
+              "id": "u6l3-01",
+              "es": "¿Qué tiempo hace?",
+              "zh": "天气怎么样？"
+            },
+            {
+              "id": "u6l3-02",
+              "es": "Hace calor.",
+              "zh": "天气热。"
+            },
+            {
+              "id": "u6l3-03",
+              "es": "Hace frío.",
+              "zh": "天气冷。"
+            },
+            {
+              "id": "u6l3-04",
+              "es": "Hace sol.",
+              "zh": "出太阳。"
+            },
+            {
+              "id": "u6l3-05",
+              "es": "Hace mucho viento.",
+              "zh": "风很大。"
+            },
+            {
+              "id": "u6l3-06",
+              "es": "Llueve.",
+              "zh": "下雨。",
+              "pron": "ll 读 [ʝ]：ʝUE-be"
+            },
+            {
+              "id": "u6l3-07",
+              "es": "Nieva.",
+              "zh": "下雪。"
+            },
+            {
+              "id": "u6l3-08",
+              "es": "Está nublado.",
+              "zh": "阴天。"
+            },
+            {
+              "id": "u6l3-09",
+              "es": "el verano / el invierno",
+              "zh": "夏天 / 冬天",
+              "tts": "el verano, el invierno"
+            },
+            {
+              "id": "u6l3-10",
+              "es": "la primavera / el otoño",
+              "zh": "春天 / 秋天",
+              "tts": "la primavera, el otoño"
+            },
+            {
+              "id": "u6l3-11",
+              "es": "En verano hace mucho calor en Sevilla.",
+              "zh": "塞维利亚夏天很热。"
+            },
+            {
+              "id": "u6l3-12",
+              "es": "Estamos a treinta grados.",
+              "zh": "现在三十度。",
+              "note": "estar a + 数字 表示气温"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "Hoy hace mucho ___.",
+              "zh": "今天很冷。",
+              "options": [
+                "frío",
+                "fría",
+                "frio"
+              ],
+              "answer": "frío"
+            },
+            {
+              "type": "fill",
+              "sentence": "En Galicia ___ mucho.",
+              "zh": "加利西亚经常下雨。",
+              "options": [
+                "llueve",
+                "hace lluvia",
+                "está lluvia"
+              ],
+              "answer": "llueve"
+            },
+            {
+              "type": "fill",
+              "sentence": "Hace ___ calor.",
+              "zh": "很热。",
+              "options": [
+                "mucho",
+                "muy",
+                "mucha"
+              ],
+              "answer": "mucho",
+              "explain": "calor 是阳性名词，用 mucho 修饰。"
+            },
+            {
+              "type": "choice",
+              "question": "「阴天」怎么说？",
+              "options": [
+                "Está nublado.",
+                "Hace nublado.",
+                "Es nublado."
+              ],
+              "answer": 0,
+              "spanishOptions": true
+            },
+            {
+              "type": "build",
+              "prompt": "天气怎么样？",
+              "answer": [
+                "Qué",
+                "tiempo",
+                "hace"
+              ],
+              "distractors": [
+                "hora",
+                "es"
+              ],
+              "full": "¿Qué tiempo hace?"
+            },
+            {
+              "type": "build",
+              "prompt": "塞维利亚夏天很热。",
+              "answer": [
+                "En",
+                "verano",
+                "hace",
+                "mucho",
+                "calor",
+                "en",
+                "Sevilla"
+              ],
+              "distractors": [
+                "muy",
+                "es"
+              ],
+              "full": "En verano hace mucho calor en Sevilla."
+            },
+            {
+              "type": "type",
+              "prompt": "下雪。",
+              "answers": [
+                "nieva",
+                "está nevando"
+              ],
+              "display": "Nieva."
+            }
+          ]
+        },
+        {
+          "id": "u6l4",
+          "title": "在餐厅",
+          "subtitle": "El menú del día",
+          "icon": "fork.knife.circle",
+          "tips": [
+            {
+              "title": "当日套餐 menú del día",
+              "body": "西班牙很多餐厅工作日中午有固定价格的套餐：primer plato（头盘）+ segundo plato（主菜）+ postre o café（甜点或咖啡），通常还包括面包和一份饮料。"
+            },
+            {
+              "title": "点菜句型",
+              "body": "De primero, quiero… · De segundo… · De postre…\n服务员会问：¿Para beber?（喝什么？）¿Y de postre?"
+            },
+            {
+              "title": "评价食物用 estar",
+              "body": "¡Está muy rico!（很好吃！）· Está salado.（咸）· Está soso.（淡）\n用 estar 是因为说的是这一盘菜此刻的味道。"
+            },
+            {
+              "title": "肉的熟度",
+              "body": "poco hecha（三分熟）· al punto（五分熟）· muy hecha（全熟）"
+            }
+          ],
+          "items": [
+            {
+              "id": "u6l4-01",
+              "es": "¿Tienen mesa para dos?",
+              "zh": "有两人桌吗？"
+            },
+            {
+              "id": "u6l4-02",
+              "es": "el menú del día",
+              "zh": "当日套餐"
+            },
+            {
+              "id": "u6l4-03",
+              "es": "De primero, una ensalada.",
+              "zh": "头盘要沙拉。"
+            },
+            {
+              "id": "u6l4-04",
+              "es": "De segundo, pescado.",
+              "zh": "主菜要鱼。"
+            },
+            {
+              "id": "u6l4-05",
+              "es": "¿Y de postre?",
+              "zh": "甜点呢？"
+            },
+            {
+              "id": "u6l4-06",
+              "es": "¿Para beber?",
+              "zh": "喝点什么？"
+            },
+            {
+              "id": "u6l4-07",
+              "es": "Agua sin gas, por favor.",
+              "zh": "请来不带气的水。"
+            },
+            {
+              "id": "u6l4-08",
+              "es": "La carne, poco hecha.",
+              "zh": "肉要三分熟。"
+            },
+            {
+              "id": "u6l4-09",
+              "es": "¡Está muy rico!",
+              "zh": "很好吃！"
+            },
+            {
+              "id": "u6l4-10",
+              "es": "Está un poco salado.",
+              "zh": "有点咸。"
+            },
+            {
+              "id": "u6l4-11",
+              "es": "¿Me trae la cuenta, por favor?",
+              "zh": "能把账单拿来吗？"
+            },
+            {
+              "id": "u6l4-12",
+              "es": "Soy alérgico a los frutos secos.",
+              "zh": "我对坚果过敏。",
+              "note": "女性说 alérgica"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "De ___, quiero pescado.",
+              "zh": "主菜我要鱼。",
+              "options": [
+                "segundo",
+                "primero",
+                "postre"
+              ],
+              "answer": "segundo"
+            },
+            {
+              "type": "fill",
+              "sentence": "¡La paella ___ muy rica!",
+              "zh": "海鲜饭很好吃！",
+              "options": [
+                "está",
+                "es",
+                "hay"
+              ],
+              "answer": "está",
+              "explain": "评价食物此刻的味道用 estar。"
+            },
+            {
+              "type": "fill",
+              "sentence": "Una mesa ___ cuatro, por favor.",
+              "zh": "请给我们一张四人桌。",
+              "options": [
+                "para",
+                "por",
+                "de"
+              ],
+              "answer": "para"
+            },
+            {
+              "type": "choice",
+              "question": "menú del día 一般不包括什么？",
+              "options": [
+                "一瓶好酒和三道甜点",
+                "头盘和主菜",
+                "甜点或咖啡"
+              ],
+              "answer": 0
+            },
+            {
+              "type": "build",
+              "prompt": "有两人桌吗？",
+              "answer": [
+                "Tienen",
+                "mesa",
+                "para",
+                "dos"
+              ],
+              "distractors": [
+                "por",
+                "mesas"
+              ],
+              "full": "¿Tienen mesa para dos?"
+            },
+            {
+              "type": "build",
+              "prompt": "我对坚果过敏。",
+              "answer": [
+                "Soy",
+                "alérgico",
+                "a",
+                "los",
+                "frutos",
+                "secos"
+              ],
+              "distractors": [
+                "Estoy",
+                "de"
+              ],
+              "full": "Soy alérgico a los frutos secos."
+            },
+            {
+              "type": "type",
+              "prompt": "很好吃！",
+              "answers": [
+                "está muy rico",
+                "está rico",
+                "está muy rica",
+                "está rica"
+              ],
+              "display": "¡Está muy rico!"
+            }
+          ]
+        },
+        {
+          "id": "u6l5",
+          "title": "城市与交通",
+          "subtitle": "En la ciudad",
+          "icon": "bus",
+          "tips": [
+            {
+              "title": "hay 还是 está？",
+              "body": "hay + 不定冠词 / 数量词：说「有什么」——Hay un museo. Hay muchos bares.\nestá / están + 定冠词名词：说「在哪里」——El museo está en el centro."
+            },
+            {
+              "title": "位置词",
+              "body": "al lado de 旁边 · enfrente de 对面 · cerca de 附近 · lejos de 远离 · detrás de 后面 · entre… y… 在…和…之间\nde + el 要缩合：al lado del parque。"
+            },
+            {
+              "title": "交通方式",
+              "body": "ir en metro / en autobús / en tren / en coche / en bici\n走路：ir a pie 或 ir andando"
+            },
+            {
+              "title": "coger",
+              "body": "在西班牙 coger 很常用：coger el metro（坐地铁）、coger un taxi。在不少拉美国家这个词有粗俗含义，那里说 tomar。"
+            }
+          ],
+          "items": [
+            {
+              "id": "u6l5-01",
+              "es": "Hay un museo en el centro.",
+              "zh": "市中心有一个博物馆。"
+            },
+            {
+              "id": "u6l5-02",
+              "es": "El museo está al lado del parque.",
+              "zh": "博物馆在公园旁边。"
+            },
+            {
+              "id": "u6l5-03",
+              "es": "enfrente de",
+              "zh": "在……对面"
+            },
+            {
+              "id": "u6l5-04",
+              "es": "entre el banco y la farmacia",
+              "zh": "在银行和药店之间"
+            },
+            {
+              "id": "u6l5-05",
+              "es": "¿Cómo vas al trabajo?",
+              "zh": "你怎么去上班？"
+            },
+            {
+              "id": "u6l5-06",
+              "es": "Voy en metro.",
+              "zh": "我坐地铁去。"
+            },
+            {
+              "id": "u6l5-07",
+              "es": "Voy andando.",
+              "zh": "我走路去。"
+            },
+            {
+              "id": "u6l5-08",
+              "es": "Cojo el autobús.",
+              "zh": "我坐公交车。",
+              "note": "coger 的 yo 形式是 cojo"
+            },
+            {
+              "id": "u6l5-09",
+              "es": "la parada de autobús",
+              "zh": "公交车站"
+            },
+            {
+              "id": "u6l5-10",
+              "es": "un billete de ida y vuelta",
+              "zh": "一张往返票",
+              "note": "西班牙说 billete，拉美多说 boleto"
+            },
+            {
+              "id": "u6l5-11",
+              "es": "¿Cuánto se tarda?",
+              "zh": "要花多长时间？"
+            },
+            {
+              "id": "u6l5-12",
+              "es": "Se tarda veinte minutos.",
+              "zh": "要二十分钟。"
+            }
+          ],
+          "exercises": [
+            {
+              "type": "fill",
+              "sentence": "En mi barrio ___ muchos bares.",
+              "zh": "我家附近有很多酒吧。",
+              "options": [
+                "hay",
+                "están",
+                "es"
+              ],
+              "answer": "hay"
+            },
+            {
+              "type": "fill",
+              "sentence": "La farmacia ___ enfrente del hotel.",
+              "zh": "药店在酒店对面。",
+              "options": [
+                "está",
+                "hay",
+                "es"
+              ],
+              "answer": "está"
+            },
+            {
+              "type": "fill",
+              "sentence": "Voy ___ tren.",
+              "zh": "我坐火车去。",
+              "options": [
+                "en",
+                "a",
+                "con"
+              ],
+              "answer": "en"
+            },
+            {
+              "type": "choice",
+              "question": "「走路去」哪种说法对？",
+              "options": [
+                "Voy andando. / Voy a pie.",
+                "Voy en pie.",
+                "Voy en andar."
+              ],
+              "answer": 0,
+              "spanishOptions": true
+            },
+            {
+              "type": "build",
+              "prompt": "你怎么去上班？",
+              "answer": [
+                "Cómo",
+                "vas",
+                "al",
+                "trabajo"
+              ],
+              "distractors": [
+                "voy",
+                "Qué"
+              ],
+              "full": "¿Cómo vas al trabajo?"
+            },
+            {
+              "type": "build",
+              "prompt": "博物馆在公园旁边。",
+              "answer": [
+                "El",
+                "museo",
+                "está",
+                "al",
+                "lado",
+                "del",
+                "parque"
+              ],
+              "distractors": [
+                "hay",
+                "de"
+              ],
+              "full": "El museo está al lado del parque."
+            },
+            {
+              "type": "type",
+              "prompt": "我坐地铁去。",
+              "answers": [
+                "voy en metro"
+              ],
+              "display": "Voy en metro."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "reference": [
+    {
+      "id": "pron",
+      "title": "发音指南",
+      "subtitle": "Pronunciación",
+      "icon": "mouth",
+      "sections": [
+        {
+          "heading": "元音",
+          "body": "五个元音都是纯元音，短促而稳定，口型不滑动。",
+          "table": {
+            "columns": [
+              "字母",
+              "发音",
+              "例词"
+            ],
+            "rows": [
+              [
+                "a",
+                "[a]，像「啊」",
+                "casa"
+              ],
+              [
+                "e",
+                "[e]，不要读成 ei",
+                "mesa"
+              ],
+              [
+                "i",
+                "[i]，像「衣」",
+                "libro"
+              ],
+              [
+                "o",
+                "[o]，不要读成 ou",
+                "ocho"
+              ],
+              [
+                "u",
+                "[u]，像「乌」",
+                "uno"
+              ]
+            ],
+            "speak": [
+              2
+            ]
+          }
+        },
+        {
+          "heading": "西班牙本土特色辅音",
+          "table": {
+            "columns": [
+              "拼写",
+              "发音",
+              "例词"
+            ],
+            "rows": [
+              [
+                "ce, ci, z",
+                "[θ] 咬舌，像英语 think",
+                "gracias"
+              ],
+              [
+                "j, ge, gi",
+                "[x] 舌根摩擦，比拼音 h 更靠后",
+                "jamón"
+              ],
+              [
+                "s",
+                "舌尖略上翘，介于 s 和 sh 之间",
+                "sí"
+              ],
+              [
+                "d（元音间）",
+                "[ð] 很软，像英语 this",
+                "nada"
+              ],
+              [
+                "d（词尾）",
+                "非常轻，有时几乎不发",
+                "Madrid"
+              ]
+            ],
+            "speak": [
+              2
+            ]
+          }
+        },
+        {
+          "heading": "其他辅音",
+          "table": {
+            "columns": [
+              "拼写",
+              "发音",
+              "例词"
+            ],
+            "rows": [
+              [
+                "h",
+                "不发音",
+                "hola"
+              ],
+              [
+                "b, v",
+                "完全同音",
+                "vino"
+              ],
+              [
+                "ñ",
+                "[ɲ]，像 ni 合成一个音",
+                "España"
+              ],
+              [
+                "ll, y",
+                "[ʝ]，接近 y",
+                "llamo"
+              ],
+              [
+                "ch",
+                "[tʃ]，接近「吃」",
+                "noche"
+              ],
+              [
+                "r",
+                "舌尖单击",
+                "pero"
+              ],
+              [
+                "rr / 词首 r",
+                "舌尖多次颤动",
+                "perro"
+              ],
+              [
+                "qu",
+                "[k]，u 不发音",
+                "qué"
+              ],
+              [
+                "gue, gui",
+                "[g]，u 不发音",
+                "guitarra"
+              ],
+              [
+                "güe, güi",
+                "u 要发音",
+                "pingüino"
+              ],
+              [
+                "x",
+                "一般读 [ks]；México 中读 [x]",
+                "taxi"
+              ]
+            ],
+            "speak": [
+              2
+            ]
+          }
+        },
+        {
+          "heading": "重音规则",
+          "body": "1. 以元音、n、s 结尾：重读倒数第二个音节 — CA-sa, HA-blan, LU-nes\n2. 以其他辅音结尾：重读最后一个音节 — pa-PEL, ha-BLAR, ciu-DAD\n3. 不符合以上规则的词，在重读元音上标重音符号 — ja-MÓN, MÉ-di-co, a-DIÓS\n\n重音符号也用来区分同形词：tú（你）/ tu（你的）、té（茶）/ te（你）、sí（是）/ si（如果）、él（他）/ el（定冠词）。"
+        }
+      ]
+    },
+    {
+      "id": "alphabet",
+      "title": "字母表",
+      "subtitle": "El abecedario",
+      "icon": "character",
+      "sections": [
+        {
+          "heading": "27 个字母",
+          "body": "西班牙皇家语言学院（RAE）规定的字母表共 27 个字母。ch 和 ll 是双字母组合，不再算作独立字母。",
+          "table": {
+            "columns": [
+              "字母",
+              "名称"
+            ],
+            "rows": [
+              [
+                "A a",
+                "a"
+              ],
+              [
+                "B b",
+                "be"
+              ],
+              [
+                "C c",
+                "ce"
+              ],
+              [
+                "D d",
+                "de"
+              ],
+              [
+                "E e",
+                "e"
+              ],
+              [
+                "F f",
+                "efe"
+              ],
+              [
+                "G g",
+                "ge"
+              ],
+              [
+                "H h",
+                "hache"
+              ],
+              [
+                "I i",
+                "i"
+              ],
+              [
+                "J j",
+                "jota"
+              ],
+              [
+                "K k",
+                "ka"
+              ],
+              [
+                "L l",
+                "ele"
+              ],
+              [
+                "M m",
+                "eme"
+              ],
+              [
+                "N n",
+                "ene"
+              ],
+              [
+                "Ñ ñ",
+                "eñe"
+              ],
+              [
+                "O o",
+                "o"
+              ],
+              [
+                "P p",
+                "pe"
+              ],
+              [
+                "Q q",
+                "cu"
+              ],
+              [
+                "R r",
+                "erre"
+              ],
+              [
+                "S s",
+                "ese"
+              ],
+              [
+                "T t",
+                "te"
+              ],
+              [
+                "U u",
+                "u"
+              ],
+              [
+                "V v",
+                "uve"
+              ],
+              [
+                "W w",
+                "uve doble"
+              ],
+              [
+                "X x",
+                "equis"
+              ],
+              [
+                "Y y",
+                "ye"
+              ],
+              [
+                "Z z",
+                "zeta"
+              ]
+            ],
+            "speak": [
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbs",
+      "title": "动词变位表",
+      "subtitle": "Conjugaciones",
+      "icon": "tablecells",
+      "sections": [
+        {
+          "heading": "三个核心不规则动词",
+          "table": {
+            "columns": [
+              "人称",
+              "ser 是",
+              "estar 在",
+              "tener 有"
+            ],
+            "rows": [
+              [
+                "yo",
+                "soy",
+                "estoy",
+                "tengo"
+              ],
+              [
+                "tú",
+                "eres",
+                "estás",
+                "tienes"
+              ],
+              [
+                "él / ella / usted",
+                "es",
+                "está",
+                "tiene"
+              ],
+              [
+                "nosotros/as",
+                "somos",
+                "estamos",
+                "tenemos"
+              ],
+              [
+                "vosotros/as",
+                "sois",
+                "estáis",
+                "tenéis"
+              ],
+              [
+                "ellos / ellas / ustedes",
+                "son",
+                "están",
+                "tienen"
+              ]
+            ],
+            "speak": [
+              1,
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "heading": "规则动词（现在时）",
+          "body": "去掉原形词尾 -ar / -er / -ir，加上对应人称的词尾。",
+          "table": {
+            "columns": [
+              "人称",
+              "hablar 说",
+              "comer 吃",
+              "vivir 住"
+            ],
+            "rows": [
+              [
+                "yo",
+                "hablo",
+                "como",
+                "vivo"
+              ],
+              [
+                "tú",
+                "hablas",
+                "comes",
+                "vives"
+              ],
+              [
+                "él / ella / usted",
+                "habla",
+                "come",
+                "vive"
+              ],
+              [
+                "nosotros/as",
+                "hablamos",
+                "comemos",
+                "vivimos"
+              ],
+              [
+                "vosotros/as",
+                "habláis",
+                "coméis",
+                "vivís"
+              ],
+              [
+                "ellos / ellas / ustedes",
+                "hablan",
+                "comen",
+                "viven"
+              ]
+            ],
+            "speak": [
+              1,
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "heading": "ir（去）",
+          "table": {
+            "columns": [
+              "人称",
+              "ir 去"
+            ],
+            "rows": [
+              [
+                "yo",
+                "voy"
+              ],
+              [
+                "tú",
+                "vas"
+              ],
+              [
+                "él / ella / usted",
+                "va"
+              ],
+              [
+                "nosotros/as",
+                "vamos"
+              ],
+              [
+                "vosotros/as",
+                "vais"
+              ],
+              [
+                "ellos / ellas / ustedes",
+                "van"
+              ]
+            ],
+            "speak": [
+              1
+            ]
+          }
+        },
+        {
+          "heading": "ser 和 estar 的分工",
+          "body": "ser：身份、国籍、职业、性格、材料、时间\n  Soy ingeniero. · Es lunes. · Son las dos.\n\nestar：位置、暂时的状态和感受\n  Estoy en casa. · Estoy cansado. · Madrid está en España."
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title": "数字",
+      "subtitle": "Los números",
+      "icon": "number.square",
+      "sections": [
+        {
+          "heading": "0–20",
+          "table": {
+            "columns": [
+              "数字",
+              "西语",
+              "数字",
+              "西语"
+            ],
+            "rows": [
+              [
+                "0",
+                "cero",
+                "11",
+                "once"
+              ],
+              [
+                "1",
+                "uno",
+                "12",
+                "doce"
+              ],
+              [
+                "2",
+                "dos",
+                "13",
+                "trece"
+              ],
+              [
+                "3",
+                "tres",
+                "14",
+                "catorce"
+              ],
+              [
+                "4",
+                "cuatro",
+                "15",
+                "quince"
+              ],
+              [
+                "5",
+                "cinco",
+                "16",
+                "dieciséis"
+              ],
+              [
+                "6",
+                "seis",
+                "17",
+                "diecisiete"
+              ],
+              [
+                "7",
+                "siete",
+                "18",
+                "dieciocho"
+              ],
+              [
+                "8",
+                "ocho",
+                "19",
+                "diecinueve"
+              ],
+              [
+                "9",
+                "nueve",
+                "20",
+                "veinte"
+              ],
+              [
+                "10",
+                "diez",
+                "",
+                ""
+              ]
+            ],
+            "speak": [
+              1,
+              3
+            ]
+          }
+        },
+        {
+          "heading": "整十与更大的数",
+          "table": {
+            "columns": [
+              "数字",
+              "西语"
+            ],
+            "rows": [
+              [
+                "21",
+                "veintiuno"
+              ],
+              [
+                "22",
+                "veintidós"
+              ],
+              [
+                "30",
+                "treinta"
+              ],
+              [
+                "31",
+                "treinta y uno"
+              ],
+              [
+                "40",
+                "cuarenta"
+              ],
+              [
+                "50",
+                "cincuenta"
+              ],
+              [
+                "60",
+                "sesenta"
+              ],
+              [
+                "70",
+                "setenta"
+              ],
+              [
+                "80",
+                "ochenta"
+              ],
+              [
+                "90",
+                "noventa"
+              ],
+              [
+                "100",
+                "cien"
+              ],
+              [
+                "101",
+                "ciento uno"
+              ],
+              [
+                "200",
+                "doscientos"
+              ],
+              [
+                "500",
+                "quinientos"
+              ],
+              [
+                "1000",
+                "mil"
+              ]
+            ],
+            "speak": [
+              1
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "survival",
+      "title": "救命短语",
+      "subtitle": "Frases útiles",
+      "icon": "lifepreserver",
+      "sections": [
+        {
+          "heading": "听不懂的时候",
+          "table": {
+            "columns": [
+              "西语",
+              "中文"
+            ],
+            "rows": [
+              [
+                "No entiendo.",
+                "我不明白。"
+              ],
+              [
+                "¿Puedes repetir, por favor?",
+                "你能再说一遍吗？"
+              ],
+              [
+                "Más despacio, por favor.",
+                "请说慢一点。"
+              ],
+              [
+                "¿Qué significa «vale»?",
+                "「vale」是什么意思？"
+              ],
+              [
+                "¿Cómo se dice esto en español?",
+                "这个用西语怎么说？"
+              ],
+              [
+                "No sé.",
+                "我不知道。"
+              ],
+              [
+                "¿Hablas inglés?",
+                "你会说英语吗？"
+              ]
+            ],
+            "speak": [
+              0
+            ]
+          }
+        },
+        {
+          "heading": "礼貌用语",
+          "table": {
+            "columns": [
+              "西语",
+              "中文"
+            ],
+            "rows": [
+              [
+                "Perdón.",
+                "不好意思。（碰到人、打断别人）"
+              ],
+              [
+                "Lo siento.",
+                "对不起。（表示歉意）"
+              ],
+              [
+                "Con permiso.",
+                "借过。"
+              ],
+              [
+                "Muchas gracias.",
+                "非常感谢。"
+              ],
+              [
+                "Necesito ayuda.",
+                "我需要帮助。"
+              ]
+            ],
+            "speak": [
+              0
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

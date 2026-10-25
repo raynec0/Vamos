@@ -1,0 +1,45 @@
+{
+  "questions": [
+    { "level": "A1", "q": "¿Cómo ___ llamas?", "options": ["te", "se", "me"], "answer": 0 },
+    { "level": "A1", "q": "Yo ___ de China.", "options": ["soy", "estoy", "tengo"], "answer": 0 },
+    { "level": "A1", "q": "Madrid ___ en España.", "options": ["está", "es", "hay"], "answer": 0 },
+    { "level": "A1", "q": "¿Cuántos años ___?", "options": ["tienes", "eres", "estás"], "answer": 0 },
+    { "level": "A1", "q": "Me ___ los perros.", "options": ["gustan", "gusta", "gusto"], "answer": 0 },
+    { "level": "A1", "q": "Nosotros ___ en una oficina.", "options": ["trabajamos", "trabajáis", "trabajan"], "answer": 0 },
+
+    { "level": "A2", "q": "Ayer ___ al cine con mis amigos.", "options": ["fui", "he ido", "iba"], "answer": 0 },
+    { "level": "A2", "q": "Esta mañana ___ muy temprano.", "options": ["me he levantado", "me levantaba", "me levantaré"], "answer": 0 },
+    { "level": "A2", "q": "Cuando era niño, siempre ___ al fútbol con mi padre.", "options": ["jugaba", "jugué", "he jugado"], "answer": 0 },
+    { "level": "A2", "q": "¿Has estado ___ en México?", "options": ["alguna vez", "ayer", "hace dos años"], "answer": 0 },
+    { "level": "A2", "q": "Mi hermano es ___ alto que yo.", "options": ["más", "tan", "mucho"], "answer": 0 },
+    { "level": "A2", "q": "El año que viene ___ a Japón.", "options": ["viajaré", "viajé", "viajaba"], "answer": 0 },
+
+    { "level": "B1", "q": "Espero que ___ un buen viaje.", "options": ["tengas", "tienes", "tendrás"], "answer": 0 },
+    { "level": "B1", "q": "Cuando ___ a casa, te llamo.", "options": ["llegue", "llego", "llegaré"], "answer": 0 },
+    { "level": "B1", "q": "No creo que ___ razón.", "options": ["tenga", "tiene", "tendrá"], "answer": 0 },
+    { "level": "B1", "q": "Me dijo que ___ al día siguiente.", "options": ["vendría", "vendrá", "viene"], "answer": 0 },
+    { "level": "B1", "q": "Cuando llegué a la estación, el tren ya ___.", "options": ["había salido", "ha salido", "salía"], "answer": 0 },
+    { "level": "B1", "q": "Busco un piso que ___ terraza.", "options": ["tenga", "tiene", "tendrá"], "answer": 0 },
+
+    { "level": "B2", "q": "Si ___ más tiempo, aprendería a tocar la guitarra.", "options": ["tuviera", "tendría", "tengo"], "answer": 0 },
+    { "level": "B2", "q": "Me pidió que la ___ a las ocho.", "options": ["llamara", "llamo", "llamaré"], "answer": 0 },
+    { "level": "B2", "q": "Aunque ___ mañana, iremos a la playa igualmente.", "options": ["llueva", "llovería", "llovió"], "answer": 0 },
+    { "level": "B2", "q": "Si me lo ___ antes, te habría ayudado.", "options": ["hubieras dicho", "habías dicho", "dijeras"], "answer": 0 },
+    { "level": "B2", "q": "No es que no ___, es que no puedo.", "options": ["quiera", "quiero", "querré"], "answer": 0 },
+    { "level": "B2", "q": "Habla como si lo ___ todo.", "options": ["supiera", "sabe", "sabría"], "answer": 0 },
+
+    { "level": "C1", "q": "El hecho de que no ___ no significa que no le interese.", "options": ["haya venido", "ha venido", "vendrá"], "answer": 0 },
+    { "level": "C1", "q": "___ diez años trabajando en esta empresa.", "options": ["Llevo", "Estoy", "Tengo"], "answer": 0 },
+    { "level": "C1", "q": "Por mucho que ___, no lo conseguirás.", "options": ["insistas", "insistes", "insistirás"], "answer": 0 },
+    { "level": "C1", "q": "Tenemos que ___ a cabo el proyecto antes de junio.", "options": ["llevar", "hacer", "poner"], "answer": 0 },
+    { "level": "C1", "q": "Se olvidó ___ que la reunión era hoy.", "options": ["de", "en", "a"], "answer": 0 },
+    { "level": "C1", "q": "«Me tomó el pelo» significa…", "options": ["Me engañó en broma", "Me cortó el pelo", "Me ayudó mucho"], "answer": 0 },
+
+    { "level": "C2", "q": "«A bote pronto» significa…", "options": ["Sin pensarlo mucho", "De manera lenta y meditada", "Con mucho dinero"], "answer": 0 },
+    { "level": "C2", "q": "¿Cuál es correcta según la norma?", "options": ["Pienso que tienes razón.", "Pienso de que tienes razón.", "Pienso en que tienes razón."], "answer": 0 },
+    { "level": "C2", "q": "«Dar gato por liebre» significa…", "options": ["Engañar dando algo de menor calidad", "Hacer un favor a alguien", "Cambiar de opinión"], "answer": 0 },
+    { "level": "C2", "q": "¿Qué expresión significa «con mucha dificultad»?", "options": ["a trancas y barrancas", "a bote pronto", "de buenas a primeras"], "answer": 0 },
+    { "level": "C2", "q": "Ante una noticia increíble, «¡Venga ya!» expresa…", "options": ["Incredulidad: no me lo creo", "Una orden de venir", "Una despedida"], "answer": 0 },
+    { "level": "C2", "q": "¿Cuál es correcta según la norma?", "options": ["El ladrón huyó y fue detenido horas después.", "El ladrón huyó, siendo detenido horas después.", "El ladrón huyó siendo detenido horas después de huir."], "answer": 0 }
+  ]
+}

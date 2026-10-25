@@ -1,0 +1,33 @@
+name: Vamos
+options:
+  bundleIdPrefix: com.raynec
+  deploymentTarget:
+    iOS: "16.0"
+  createIntermediateGroups: true
+
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    MARKETING_VERSION: "2.0"
+    CURRENT_PROJECT_VERSION: "1"
+
+targets:
+  Vamos:
+    type: application
+    platform: iOS
+    sources:
+      - path: Vamos
+        excludes:
+          - Info.plist
+    settings:
+      base:
+        INFOPLIST_FILE: Vamos/Info.plist
+        PRODUCT_BUNDLE_IDENTIFIER: com.raynec.vamos
+        PRODUCT_NAME: Vamos
+        TARGETED_DEVICE_FAMILY: "1"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        CODE_SIGN_STYLE: Manual
+        CODE_SIGNING_ALLOWED: NO
+        CODE_SIGNING_REQUIRED: NO
+        CODE_SIGN_IDENTITY: ""
